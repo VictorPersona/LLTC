@@ -1,5 +1,6 @@
 import React, { useEffect } from "react";
 import { useState } from "react";
+import LessonTile from "../components/LessonTile";
 interface Lesson {
   id: number;
   title: string;
@@ -34,7 +35,7 @@ const Lessons: React.FC = () => {
   }, []);
 
   return (
-    <div>
+    /*<div>
       <h1>Lessons</h1>
       {lessons.length === 0 ? (
         <p>Loading lessons...</p>
@@ -48,6 +49,15 @@ const Lessons: React.FC = () => {
           ))}
         </ul>
       )}
+    </div>*/
+
+    <div
+      style={{ display: "flex", flexWrap: "wrap", justifyContent: "center" }}
+    >
+      <LessonTile unitNo={1} stars={2} highscore={226849} />
+      <LessonTile unitNo={2} stars={3} highscore={456864} />
+      <LessonTile unitNo={3} stars={1} highscore={378459} />
+      <LessonTile unitNo={4} stars={0} highscore={357112} />
     </div>
   );
 };
