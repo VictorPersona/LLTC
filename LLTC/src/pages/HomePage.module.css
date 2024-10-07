@@ -1,0 +1,25 @@
+.homePage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  position: relative;
+}
+
+#settingsBtn {
+  position: absolute;
+  left: 20px;
+  bottom: 20px;
+}
+#aboutBtn {
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+}
+
+#playBtn {
+  margin: 20px 0;
+  padding: 10px 20px;
+}
+
