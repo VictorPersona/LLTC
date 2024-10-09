@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import HomePage from "./pages/HomePage";
 import Lessons from "./pages/Lessons";
 import About from "./pages/About";
+import Settings from "./pages/Settings";
 
 const App: React.FC = () => {
   return (
@@ -14,6 +15,7 @@ const App: React.FC = () => {
           <Route path="/" element={<HomePage />} />
           <Route path="/lessons" element={<Lessons />} />
           <Route path="/about" element={<About />} />
+          <Route path="/settings" element={<Settings/>}/>
         </Routes>
       </Router>
     </div>

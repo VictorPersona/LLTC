@@ -58,6 +58,12 @@ const Lessons: React.FC = () => {
       <LessonTile unitNo={2} stars={3} highscore={456864} />
       <LessonTile unitNo={3} stars={1} highscore={378459} />
       <LessonTile unitNo={4} stars={0} highscore={357112} />
+      <LessonTile unitNo={5} stars={3} highscore={487212} />
+      <LessonTile unitNo={6} stars={2} highscore={415678} />
+      <LessonTile unitNo={7} stars={2} highscore={499999} />
+      <LessonTile unitNo={8} stars={3} highscore={430000} />
+      <LessonTile unitNo={9} stars={1} highscore={389000} />
+      <LessonTile unitNo={10} stars={1} highscore={468900} />
     </div>
   );
 };

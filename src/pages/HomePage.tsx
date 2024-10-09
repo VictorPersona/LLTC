@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const HomePage: React.FC = () => {
   return (
     <div className={styles.homePage}>
-      <h1 className={styles.homePageHeading}>Let"s Learn The Constitution</h1>
+      <h1 className={styles.homePageHeading}>Let's Learn The Constitution</h1>
       {
         <>
           <Link to="/lessons">
