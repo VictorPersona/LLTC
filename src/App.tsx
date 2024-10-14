@@ -5,6 +5,9 @@ import HomePage from "./pages/HomePage";
 import Lessons from "./pages/Lessons";
 import About from "./pages/About";
 import Settings from "./pages/Settings";
+import LessonDisplay from "./components/LessonDisplay";
+
+
 
 const App: React.FC = () => {
   return (
@@ -16,9 +19,13 @@ const App: React.FC = () => {
           <Route path="/lessons" element={<Lessons />} />
           <Route path="/about" element={<About />} />
           <Route path="/settings" element={<Settings/>}/>
+          <Route path="lesDis" element={<LessonDisplay/>}/>
         </Routes>
       </Router>
     </div>
   );
 };
 export default App;
+
+
+
