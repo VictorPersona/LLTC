@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 
-
 interface QuestionData {
   question: string;
   options: string[];
@@ -14,36 +13,36 @@ const MultipleChoiceQuestion: React.FC<QuestionData> = ({
   correctAnswer,
   onAnswer,
 }) => {
+  const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
+  const [isCorrect, setIsCorrect] = useState<boolean | null>(null);
 
-const [selectedAnswer,setSelectedAnswer]=useState<string|null>(null)
-const [isCorrect,setIsCorrect]=useState<boolean|null>(null)
+  const handleOptionSelect = (selected: string) => {
+    setSelectedAnswer(selected);
+    if (selected == correctAnswer) {
+      setIsCorrect(true);
+    } else {
+      setIsCorrect(false);
+    }
 
-const handleOptionSelect=(selected:string)=>{
-  setSelectedAnswer(selected);
-  if(selected==correctAnswer){
-    setIsCorrect(true)
-   
-  }
-  else()
-
-   onAnswer();
-
-    setTimeout({},5000)
-}
-
-
-
+    setTimeout(() => {
+      setSelectedAnswer(null), setIsCorrect(null), onAnswer();
+    }, 1000);
+  };
 
   return (
     <>
       <p className="questionText">{question}</p>
       {options.map((option) => {
-        const isSelected=selectedAnswer===option;
+        const isSelected = selectedAnswer === option;
 
         const buttonStyle = {
           padding: "10px",
           margin: "5px",
-          backgroundColor: isSelected?(isCorrect?"green":"red"):"lightblue",
+          backgroundColor: isSelected
+            ? isCorrect
+              ? "green"
+              : "red"
+            : "lightblue",
           color: "black",
           border: "1px solid gray",
           borderRadius: "5px",
@@ -51,7 +50,7 @@ const handleOptionSelect=(selected:string)=>{
         return (
           <button
             key={option}
-            onClick={()=>handleOptionSelect(option)}
+            onClick={() => handleOptionSelect(option)}
             style={buttonStyle}
           >
             {option}
@@ -63,6 +62,3 @@ const handleOptionSelect=(selected:string)=>{
 };
 
 export default MultipleChoiceQuestion;
-
-
-
