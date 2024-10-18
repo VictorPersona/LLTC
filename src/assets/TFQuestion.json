@@ -1,0 +1,44 @@
+{
+  "Questions": [
+    {
+      "questionText": "The Right to Freedom includes the freedom of speech and expression.",
+      "correctAnswer": true
+    },
+    {
+      "questionText": "The Right to Constitutional Remedies is not considered a Fundamental Right.",
+      "correctAnswer": false
+    },
+    {
+      "questionText": "The Right to Education is a Fundamental Right in India.",
+      "correctAnswer": true
+    },
+    {
+      "questionText": "Fundamental Duties were originally a part of the Constitution when it was enacted in 1950.",
+      "correctAnswer": false
+    },
+    {
+      "questionText": "One of the Fundamental Duties is to protect and improve the natural environment.",
+      "correctAnswer": true
+    },
+    {
+      "questionText": "The Right to Privacy is explicitly mentioned as a Fundamental Right in the Constitution.",
+      "correctAnswer": false
+    },
+    {
+      "questionText": "It is the duty of every citizen to safeguard public property.",
+      "correctAnswer": true
+    },
+    {
+      "questionText": "Fundamental Rights can be suspended during a National Emergency.",
+      "correctAnswer": true
+    },
+    {
+      "questionText": "Every citizen is entitled to form associations or unions as per the Constitution.",
+      "correctAnswer": true
+    },
+    {
+      "questionText": "The right to work is one of the Fundamental Rights listed in the Constitution.",
+      "correctAnswer": false
+    }
+  ]
+}
