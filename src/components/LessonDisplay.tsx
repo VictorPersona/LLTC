@@ -2,11 +2,13 @@ import React, { useState } from "react";
 import InformationDisplay from "./InformationDisplay";
 import fundamentalRightsData from "../assets/fundamentalRights.json";
 import MultipleChoiceQuestion from "./MultipleChoiceQuestion";
-import MCQQuestions from "../assets/MCQquestions.json";
+//import MCQQuestions from "../assets/MCQquestions.json";
+import Questions from "../assets/questions.json";
 //import TFQuestions from "../assets/TFQuestion.json"
-//import TrueAndFalse from "./TrueAndFalse";
+import TrueAndFalse from "./TrueAndFalse";
 
 const LessonDisplay: React.FC = () => {
+  const allQuestions = Questions.quizQuestions.sort(() => 0.5 - Math.random());
   const [informationEnded, setInformationEnded] = useState<boolean>(false);
   const [questionIndex, setQuestionIndex] = useState<number>(0);
   const [questionEnded, setQuestionEnded] = useState<boolean>(false);
@@ -15,7 +17,7 @@ const LessonDisplay: React.FC = () => {
   };
 
   const handleNextQuestion = () => {
-    if (questionIndex < MCQQuestions.quizQuestions.length - 1) {
+    if (questionIndex < allQuestions.length - 1) {
       setQuestionIndex(questionIndex + 1);
     } else {
       setQuestionEnded(true);
@@ -31,16 +33,22 @@ const LessonDisplay: React.FC = () => {
         />
       )}
 
-      {informationEnded && !questionEnded && (
-        <MultipleChoiceQuestion
-          question={MCQQuestions.quizQuestions[questionIndex].question}
-          options={MCQQuestions.quizQuestions[questionIndex].options}
-          correctAnswer={
-            MCQQuestions.quizQuestions[questionIndex].correctAnswer
-          }
-          onAnswer={handleNextQuestion}
-        />
-      )}
+      {informationEnded &&
+        !questionEnded &&
+        (allQuestions[questionIndex].type == "TF" ? (
+          <TrueAndFalse
+            questionText={allQuestions[questionIndex].questionText || ""}
+            correctAnswer={!!allQuestions[questionIndex].correctAnswer}
+            onAnswer={handleNextQuestion}
+          />
+        ) : (
+          <MultipleChoiceQuestion
+            question={allQuestions[questionIndex].question || ""}
+            options={allQuestions[questionIndex].options || []}
+            correctAnswer={allQuestions[questionIndex].correctAnswer as string}
+            onAnswer={handleNextQuestion}
+          />
+        ))}
 
       {questionEnded && <p>Quiz Completed , Well Done</p>}
     </>
