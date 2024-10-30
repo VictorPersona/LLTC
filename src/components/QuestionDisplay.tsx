@@ -1,37 +1,33 @@
 import React, { useState } from 'react'
 import TrueAndFalse from './TrueAndFalse'
 import MultipleChoiceQuestion from './MultipleChoiceQuestion'
-import Questions from '../assets/questions.json'
+import { quizQuestionData } from './types'
 
-interface quizQuestionData{
-  question:string;
-  
-
+interface Data {
+  questionArrayData: quizQuestionData[]
+  questionEnded: (value: boolean) => void
 }
 
-interface Data{
-  questionArrayData:Object[];
-  onCompletion:()=>void;
-}
-
-
-const QuestionDisplay: React.FC = () => {
-  const allQuestions = Questions.quizQuestions.sort(() => 0.5 - Math.random())
+const QuestionDisplay: React.FC<Data> = ({
+  questionArrayData,
+  questionEnded,
+}) => {
+  const allQuestions = questionArrayData.sort(() => 0.5 - Math.random())
   const [questionIndex, setQuestionIndex] = useState<number>(0)
 
- const handleNextQuestion = () => {
-   if (questionIndex < allQuestions.length - 1) {
-     setQuestionIndex(questionIndex + 1)
-   } else {
-     setQuestionEnded(true)
-   }
- }
+  const handleNextQuestion = () => {
+    if (questionIndex < allQuestions.length - 1) {
+      setQuestionIndex(questionIndex + 1)
+    } else {
+      questionEnded(true)
+    }
+  }
 
   return (
     <>
       {allQuestions[questionIndex].type == 'TF' ? (
         <TrueAndFalse
-          questionText={allQuestions[questionIndex].questionText || ''}
+          question={allQuestions[questionIndex].question || ''}
           correctAnswer={!!allQuestions[questionIndex].correctAnswer}
           onAnswer={handleNextQuestion}
         />

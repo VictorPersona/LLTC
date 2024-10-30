@@ -9,7 +9,7 @@
         "Right to Privacy"
       ],
       "correctAnswer": "Right to Freedom",
-      "type":"MCQ"
+      "type": "MCQ"
     },
     {
       "question": "Which article of the Constitution of India deals with the Right to Equality?",
@@ -85,54 +85,54 @@
       "correctAnswer": "Respect the National Flag",
       "type": "MCQ"
     },
-  
+
     {
-      "questionText": "The Right to Freedom includes the freedom of speech and expression.",
+      "question": "The Right to Freedom includes the freedom of speech and expression.",
       "correctAnswer": true,
       "type": "TF"
     },
     {
-      "questionText": "The Right to Constitutional Remedies is not considered a Fundamental Right.",
+      "question": "The Right to Constitutional Remedies is not considered a Fundamental Right.",
       "correctAnswer": false,
       "type": "TF"
     },
     {
-      "questionText": "The Right to Education is a Fundamental Right in India.",
+      "question": "The Right to Education is a Fundamental Right in India.",
       "correctAnswer": true,
       "type": "TF"
     },
     {
-      "questionText": "Fundamental Duties were originally a part of the Constitution when it was enacted in 1950.",
+      "question": "Fundamental Duties were originally a part of the Constitution when it was enacted in 1950.",
       "correctAnswer": false,
       "type": "TF"
     },
     {
-      "questionText": "One of the Fundamental Duties is to protect and improve the natural environment.",
+      "question": "One of the Fundamental Duties is to protect and improve the natural environment.",
       "correctAnswer": true,
       "type": "TF"
     },
     {
-      "questionText": "The Right to Privacy is explicitly mentioned as a Fundamental Right in the Constitution.",
+      "question": "The Right to Privacy is explicitly mentioned as a Fundamental Right in the Constitution.",
       "correctAnswer": false,
       "type": "TF"
     },
     {
-      "questionText": "It is the duty of every citizen to safeguard public property.",
+      "question": "It is the duty of every citizen to safeguard public property.",
       "correctAnswer": true,
       "type": "TF"
     },
     {
-      "questionText": "Fundamental Rights can be suspended during a National Emergency.",
+      "question": "Fundamental Rights can be suspended during a National Emergency.",
       "correctAnswer": true,
       "type": "TF"
     },
     {
-      "questionText": "Every citizen is entitled to form associations or unions as per the Constitution.",
+      "question": "Every citizen is entitled to form associations or unions as per the Constitution.",
       "correctAnswer": true,
       "type": "TF"
     },
     {
-      "questionText": "The right to work is one of the Fundamental Rights listed in the Constitution.",
+      "question": "The right to work is one of the Fundamental Rights listed in the Constitution.",
       "correctAnswer": false,
       "type": "TF"
     }
