@@ -6,11 +6,15 @@ import { quizQuestionData } from './types'
 interface Data {
   questionArrayData: quizQuestionData[]
   questionEnded: (value: boolean) => void
+  score: number
+  setScore: () => void
 }
 
 const QuestionDisplay: React.FC<Data> = ({
   questionArrayData,
   questionEnded,
+  score,
+  setScore,
 }) => {
   const allQuestions = questionArrayData.sort(() => 0.5 - Math.random())
   const [questionIndex, setQuestionIndex] = useState<number>(0)
@@ -30,6 +34,8 @@ const QuestionDisplay: React.FC<Data> = ({
           question={allQuestions[questionIndex].question || ''}
           correctAnswer={!!allQuestions[questionIndex].correctAnswer}
           onAnswer={handleNextQuestion}
+          score={score}
+          setScore={setScore}
         />
       ) : (
         <MultipleChoiceQuestion
@@ -37,6 +43,8 @@ const QuestionDisplay: React.FC<Data> = ({
           options={allQuestions[questionIndex].options || []}
           correctAnswer={allQuestions[questionIndex].correctAnswer as string}
           onAnswer={handleNextQuestion}
+          score={score}
+          setScore={setScore}
         />
       )}
     </>

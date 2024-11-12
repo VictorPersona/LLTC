@@ -12,6 +12,11 @@ const LessonDisplay: React.FC = () => {
   const onInformationEnd = () => {
     setInformationEnded(true)
   }
+  const [lessonScore, setLessonScore] = useState<number>(0)
+
+  const updateScore = () => {
+    setLessonScore(lessonScore + 100)
+  }
 
   const onQuestionEnd = (value: boolean) => {
     setQuestionEnded(value)
@@ -30,6 +35,8 @@ const LessonDisplay: React.FC = () => {
         <QuestionDisplay
           questionArrayData={Questions.quizQuestions as quizQuestionData[]}
           questionEnded={onQuestionEnd}
+          score={lessonScore}
+          setScore={updateScore}
         />
       )}
 
