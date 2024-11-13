@@ -40,7 +40,9 @@ const LessonDisplay: React.FC = () => {
         />
       )}
 
-      {questionEnded && <p>Quiz Completed , Well Done</p>}
+      {questionEnded && (
+        <p>Quiz Completed , Well Done Your Score is {lessonScore}</p>
+      )}
     </>
   )
 }
