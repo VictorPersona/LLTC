@@ -1,0 +1,44 @@
+.lessonTile {
+  width: 200px;
+  padding: 20px;
+  background-color: #1b2735;
+  color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  margin: 10px;
+  font-family: Arial, sans-serif;
+}
+
+.unitNo {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.stars {
+  font-size: 1.2em;
+  color: #FFD700; /* Gold color for stars */
+  margin-bottom: 10px;
+}
+
+#playButton {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  font-size: 1em;
+  cursor: pointer;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+
+#playButton:hover {
+  background-color: #45a049;
+}
+
+.highscore {
+  margin-top: 10px;
+  font-size: 0.9em;
+  color: #cccccc;
+}

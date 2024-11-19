@@ -1,0 +1,140 @@
+{
+  "quizQuestions": [
+    {
+      "question": "What is the fundamental right related to freedom of speech?",
+      "options": [
+        "Right to Equality",
+        "Right to Freedom",
+        "Right to Education",
+        "Right to Privacy"
+      ],
+      "correctAnswer": "Right to Freedom",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which article of the Constitution of India deals with the Right to Equality?",
+      "options": ["Article 14", "Article 16", "Article 19", "Article 21"],
+      "correctAnswer": "Article 14",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which of the following is a directive principle of state policy?",
+      "options": [
+        "Right to Education",
+        "Right to Freedom",
+        "Right to Equal Pay",
+        "Right to Life"
+      ],
+      "correctAnswer": "Right to Equal Pay",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which article provides the right to constitutional remedies?",
+      "options": ["Article 32", "Article 19", "Article 14", "Article 21"],
+      "correctAnswer": "Article 32",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which amendment act introduced the right to education?",
+      "options": [
+        "86th Amendment",
+        "42nd Amendment",
+        "74th Amendment",
+        "73rd Amendment"
+      ],
+      "correctAnswer": "86th Amendment",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which of the following is included in the right to life and personal liberty?",
+      "options": [
+        "Right to Marriage",
+        "Right to Privacy",
+        "Right to Vote",
+        "Right to Expression"
+      ],
+      "correctAnswer": "Right to Privacy",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which part of the Indian Constitution deals with Fundamental Rights?",
+      "options": ["Part III", "Part IV", "Part V", "Part VI"],
+      "correctAnswer": "Part III",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which article abolishes untouchability in India?",
+      "options": ["Article 17", "Article 15", "Article 14", "Article 21"],
+      "correctAnswer": "Article 17",
+      "type": "MCQ"
+    },
+    {
+      "question": "What is the age limit for the right to education in India?",
+      "options": ["6-14 years", "7-18 years", "5-15 years", "4-12 years"],
+      "correctAnswer": "6-14 years",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which of the following is a Fundamental Duty of Indian citizens?",
+      "options": [
+        "Right to Vote",
+        "Respect the National Flag",
+        "Right to Information",
+        "Right to Property"
+      ],
+      "correctAnswer": "Respect the National Flag",
+      "type": "MCQ"
+    },
+
+    {
+      "question": "The Right to Freedom includes the freedom of speech and expression.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The Right to Constitutional Remedies is not considered a Fundamental Right.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The Right to Education is a Fundamental Right in India.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "Fundamental Duties were originally a part of the Constitution when it was enacted in 1950.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "One of the Fundamental Duties is to protect and improve the natural environment.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The Right to Privacy is explicitly mentioned as a Fundamental Right in the Constitution.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "It is the duty of every citizen to safeguard public property.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "Fundamental Rights can be suspended during a National Emergency.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "Every citizen is entitled to form associations or unions as per the Constitution.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The right to work is one of the Fundamental Rights listed in the Constitution.",
+      "correctAnswer": false,
+      "type": "TF"
+    }
+  ]
+}

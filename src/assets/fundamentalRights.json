@@ -1,0 +1,40 @@
+{
+  "fundamentalRights": [
+    {
+      "title": "1.Right to Equality",
+      "description": "Ensures equality before the law and prohibits discrimination on grounds of religion, race, caste, sex, or place of birth.",
+      "articles": [
+        "Article 14",
+        "Article 15",
+        "Article 16",
+        "Article 17",
+        "Article 18"
+      ]
+    },
+    {
+      "title": "2.Right to Freedom",
+      "description": "Provides citizens with freedom of speech and expression, assembly, association, movement, residence, and the right to practice any profession or occupation.",
+      "articles": ["Article 19", "Article 20", "Article 21", "Article 22"]
+    },
+    {
+      "title": "3.Right against Exploitation",
+      "description": "Prohibits all forms of forced labor, child labor, and human trafficking.",
+      "articles": ["Article 23", "Article 24"]
+    },
+    {
+      "title": "4.Right to Freedom of Religion",
+      "description": "Allows all citizens the freedom to profess, practice, and propagate any religion.",
+      "articles": ["Article 25", "Article 26", "Article 27", "Article 28"]
+    },
+    {
+      "title": "5.Cultural and Educational Rights",
+      "description": "Protects the rights of cultural, religious, and linguistic minorities by enabling them to conserve their heritage.",
+      "articles": ["Article 29", "Article 30"]
+    },
+    {
+      "title": "6.Right to Constitutional Remedies",
+      "description": "Allows individuals to seek enforcement of their fundamental rights against entities infringing upon them.",
+      "articles": ["Article 32"]
+    }
+  ]
+}

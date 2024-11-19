@@ -1,0 +1,112 @@
+/* Common styles */
+.quiz-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: #fff3e0; /* Light orange background for autumn feel */
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.question-text {
+  font-size: 1.25rem;
+  margin-bottom: 1.5rem;
+  color: #5d4037; /* Dark brown color for text */
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.quiz-button {
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.quiz-button:hover {
+  opacity: 0.9;
+}
+
+/* InformationDisplay styles */
+.info-display {
+  text-align: center;
+}
+
+.info-title {
+  font-size: 2rem;
+  color: #ff6f00; /* Orange color for title */
+  margin-bottom: 1rem;
+}
+
+.info-description {
+  font-size: 1.1rem;
+  color: #5d4037; /* Dark brown color for description */
+  margin-bottom: 2rem;
+}
+
+/* TrueAndFalse and MultipleChoiceQuestion styles */
+.score-box {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 1rem;
+  color: #ff6f00; /* Orange color for score */
+}
+
+.option-button {
+  width: 100%;
+  text-align: left;
+  margin-bottom: 0.5rem;
+  background-color: #ffcc80; /* Light orange for buttons */
+  color: #5d4037; /* Dark brown text color */
+  border: 1px solid #ff9800; /* Orange border */
+}
+
+.option-button:hover {
+  background-color: #ffa726; /* Darker orange on hover */
+}
+
+.option-button.selected {
+  font-weight: bold;
+}
+
+.option-button.correct {
+  background-color: #81c784; /* Green for correct answer */
+  border-color: #4caf50;
+}
+
+.option-button.incorrect {
+  background-color: #e57373; /* Red for incorrect answer */
+  border-color: #f44336;
+}
+
+/* Responsive adjustments */
+@media (max-width: 576px) {
+  .quiz-container {
+    padding: 1rem;
+  }
+
+  .info-title {
+    font-size: 1.5rem;
+  }
+
+  .info-description {
+    font-size: 1rem;
+  }
+
+  .question-text {
+    font-size: 1.1rem;
+  }
+
+  .quiz-button {
+    padding: 0.5rem 1rem;
+    font-size: 0.9rem;
+  }
+}
