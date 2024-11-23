@@ -1,0 +1,101 @@
+{
+  "title": "Basic Structure Doctrine in Indian Constitution",
+  "information": [
+    {
+      "title": "Definition",
+      "description": "The Basic Structure Doctrine is a judicial principle that the Constitution of India has certain basic features that cannot be altered or destroyed through amendments by the parliament. It was evolved by the Supreme Court of India in the landmark case of Kesavananda Bharati v. State of Kerala (1973)."
+    },
+    {
+      "title": "Origin",
+      "description": "The doctrine emerged as a response to the government's attempts to amend the Constitution in ways that could potentially undermine its core principles. It was first outlined in the Kesavananda Bharati case, where a 13-judge bench ruled by a 7-6 majority."
+    },
+    {
+      "title": "Key Features",
+      "description": "While the Supreme Court has not provided an exhaustive list, some of the basic features identified include: supremacy of the Constitution, republican and democratic form of government, secular character of the Constitution, separation of powers, and federalism."
+    },
+    {
+      "title": "Significance",
+      "description": "The doctrine acts as a check on the power of the Parliament to amend the Constitution. It ensures that the fundamental nature of the Indian Constitution cannot be altered to fit the whims of a particular government or a temporary majority."
+    },
+    {
+      "title": "Application",
+      "description": "The doctrine has been applied in several subsequent cases. For instance, in the Minerva Mills case (1980), the Supreme Court used this doctrine to strike down clauses of the 42nd Amendment which had given the Parliament unlimited power to amend the Constitution."
+    },
+    {
+      "title": "Criticism",
+      "description": "The doctrine has been criticized by some as being undemocratic, arguing that it gives too much power to unelected judges to determine what constitutes the 'basic structure'. However, supporters argue it's necessary to protect the essence of the Constitution."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "In which case was the Basic Structure Doctrine first outlined?",
+      "options": [
+        "Kesavananda Bharati v. State of Kerala",
+        "Golak Nath v. State of Punjab",
+        "Minerva Mills v. Union of India",
+        "Indira Gandhi v. Raj Narain"
+      ],
+      "correctAnswer": "Kesavananda Bharati v. State of Kerala",
+      "type": "MCQ"
+    },
+    {
+      "question": "What is the main purpose of the Basic Structure Doctrine?",
+      "options": [
+        "To protect certain fundamental features of the Constitution from being amended",
+        "To give unlimited power to Parliament to amend the Constitution",
+        "To abolish the power of judicial review",
+        "To change the federal structure to unitary"
+      ],
+      "correctAnswer": "To protect certain fundamental features of the Constitution from being amended",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which of the following is NOT considered a part of the basic structure of the Constitution?",
+      "options": [
+        "Specific provisions about tax rates",
+        "Supremacy of the Constitution",
+        "Secular character of the Constitution",
+        "Federalism"
+      ],
+      "correctAnswer": "Specific provisions about tax rates",
+      "type": "MCQ"
+    },
+    {
+      "question": "In which year was the Kesavananda Bharati case decided?",
+      "options": ["1973", "1950", "1980", "2000"],
+      "correctAnswer": "1973",
+      "type": "MCQ"
+    },
+    {
+      "question": "What was the majority in the Kesavananda Bharati case that established the Basic Structure Doctrine?",
+      "options": ["7-6", "Unanimous", "5-4", "9-2"],
+      "correctAnswer": "7-6",
+      "type": "MCQ"
+    },
+    {
+      "question": "The Basic Structure Doctrine allows Parliament to amend any part of the Constitution without restrictions.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The Supreme Court has provided an exhaustive list of what constitutes the 'basic structure' of the Constitution.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The Basic Structure Doctrine was first outlined in the Minerva Mills case.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The doctrine has been criticized by some as being undemocratic.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The Basic Structure Doctrine acts as a check on the power of the Parliament to amend the Constitution.",
+      "correctAnswer": true,
+      "type": "TF"
+    }
+  ]
+}

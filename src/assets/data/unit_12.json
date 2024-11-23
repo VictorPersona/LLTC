@@ -1,0 +1,106 @@
+{
+  "title": "Citizenship in India (Part II of the Constitution)",
+  "information": [
+    {
+      "title": "Constitutional Provisions",
+      "description": "Articles 5 to 11 in Part II of the Indian Constitution deal with citizenship. The Constitution provides for single citizenship for the entire country."
+    },
+    {
+      "title": "Citizenship Act, 1955",
+      "description": "This Act provides for acquisition and determination of Indian citizenship. It has been amended several times, with the most recent significant amendment in 2019."
+    },
+    {
+      "title": "Acquisition of Citizenship",
+      "description": "Indian citizenship can be acquired by birth, descent, registration, naturalization, and incorporation of territory. The specific conditions for each method are detailed in the Citizenship Act."
+    },
+    {
+      "title": "Overseas Citizenship of India (OCI)",
+      "description": "OCI is a form of permanent residency available to people of Indian origin and their spouses. It provides most of the rights of full citizens except for voting rights and government employment."
+    },
+    {
+      "title": "Loss of Citizenship",
+      "description": "Indian citizenship can be lost through renunciation, termination, or deprivation as per the provisions of the Citizenship Act."
+    },
+    {
+      "title": "Dual Citizenship",
+      "description": "India does not allow dual citizenship. Acquiring citizenship of another country leads to automatic loss of Indian citizenship, except for minors who can hold dual citizenship until the age of 18."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "Which part of the Indian Constitution deals with citizenship?",
+      "options": ["Part II", "Part I", "Part III", "Part IV"],
+      "correctAnswer": "Part II",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which Act provides for the acquisition and determination of Indian citizenship?",
+      "options": [
+        "Citizenship Act, 1955",
+        "Indian Citizenship Act, 1947",
+        "Naturalization Act, 1960",
+        "Citizenship Amendment Act, 2019"
+      ],
+      "correctAnswer": "Citizenship Act, 1955",
+      "type": "MCQ"
+    },
+    {
+      "question": "What is Overseas Citizenship of India (OCI)?",
+      "options": [
+        "A form of permanent residency for people of Indian origin",
+        "Dual citizenship for Non-Resident Indians",
+        "Temporary work permit for foreigners in India",
+        "Citizenship for Indians living abroad"
+      ],
+      "correctAnswer": "A form of permanent residency for people of Indian origin",
+      "type": "MCQ"
+    },
+    {
+      "question": "How can Indian citizenship be lost?",
+      "options": [
+        "Through renunciation, termination, or deprivation",
+        "Only through voluntary renunciation",
+        "Only if a person commits a serious crime",
+        "It cannot be lost once acquired"
+      ],
+      "correctAnswer": "Through renunciation, termination, or deprivation",
+      "type": "MCQ"
+    },
+    {
+      "question": "What happens if an Indian citizen acquires citizenship of another country?",
+      "options": [
+        "Automatic loss of Indian citizenship",
+        "They can maintain dual citizenship",
+        "They must choose one within 5 years",
+        "No effect on Indian citizenship"
+      ],
+      "correctAnswer": "Automatic loss of Indian citizenship",
+      "type": "MCQ"
+    },
+    {
+      "question": "The Indian Constitution provides for dual citizenship.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "Overseas Citizens of India (OCI) have voting rights in India.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "Indian citizenship can be acquired by birth, descent, registration, naturalization, and incorporation of territory.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "Minors can hold dual citizenship in India until the age of 18.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The Citizenship Act, 1955 has never been amended since its enactment.",
+      "correctAnswer": false,
+      "type": "TF"
+    }
+  ]
+}

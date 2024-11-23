@@ -1,0 +1,96 @@
+{
+  "title": "Election Commission and Electoral Process in India",
+  "information": [
+    {
+      "title": "Election Commission",
+      "description": "The Election Commission of India is an autonomous constitutional authority responsible for administering election processes in India. It was established in 1950 under Article 324 of the Constitution."
+    },
+    {
+      "title": "Composition",
+      "description": "The Election Commission consists of one Chief Election Commissioner and two Election Commissioners. They are appointed by the President of India and have a tenure of six years or up to the age of 65 years, whichever is earlier."
+    },
+    {
+      "title": "Functions",
+      "description": "The Election Commission is responsible for conducting elections to the Parliament, State Legislatures, and offices of the President and Vice-President. It also decides on matters related to recognition of political parties and allotment of election symbols."
+    },
+    {
+      "title": "Electoral Process",
+      "description": "The electoral process in India involves several steps including delimitation of constituencies, voter registration, nomination of candidates, campaigning, voting, and counting of votes. The first-past-the-post system is used for most elections."
+    },
+    {
+      "title": "Model Code of Conduct",
+      "description": "The Model Code of Conduct is a set of guidelines issued by the Election Commission to regulate political parties and candidates during elections. It comes into force as soon as the election schedule is announced."
+    },
+    {
+      "title": "Electronic Voting Machines (EVMs)",
+      "description": "India uses Electronic Voting Machines (EVMs) for casting votes. These were first introduced in 1982 and have been used nationwide since 2004. The use of EVMs has significantly reduced the time taken for vote counting and declaration of results."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "Under which Article of the Indian Constitution was the Election Commission established?",
+      "options": ["Article 324", "Article 320", "Article 315", "Article 330"],
+      "correctAnswer": "Article 324",
+      "type": "MCQ"
+    },
+    {
+      "question": "How many members does the Election Commission of India have?",
+      "options": ["3", "1", "5", "7"],
+      "correctAnswer": "3",
+      "type": "MCQ"
+    },
+    {
+      "question": "What is the tenure of the Chief Election Commissioner?",
+      "options": [
+        "6 years or up to the age of 65 years, whichever is earlier",
+        "5 years or up to the age of 60 years, whichever is earlier",
+        "4 years or up to the age of 62 years, whichever is earlier",
+        "No fixed tenure"
+      ],
+      "correctAnswer": "6 years or up to the age of 65 years, whichever is earlier",
+      "type": "MCQ"
+    },
+    {
+      "question": "What electoral system is primarily used in Indian elections?",
+      "options": [
+        "First-past-the-post system",
+        "Proportional representation",
+        "Mixed system",
+        "Two-round system"
+      ],
+      "correctAnswer": "First-past-the-post system",
+      "type": "MCQ"
+    },
+    {
+      "question": "When was the use of Electronic Voting Machines (EVMs) introduced nationwide in India?",
+      "options": ["2004", "1982", "1999", "2010"],
+      "correctAnswer": "2004",
+      "type": "MCQ"
+    },
+    {
+      "question": "The Election Commission of India is responsible for conducting elections to local bodies.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The Model Code of Conduct comes into force as soon as the election schedule is announced.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The President of India is a member of the Election Commission.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The Election Commission decides on matters related to recognition of political parties.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "Electronic Voting Machines (EVMs) were first introduced in India in 1982.",
+      "correctAnswer": true,
+      "type": "TF"
+    }
+  ]
+}

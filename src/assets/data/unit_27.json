@@ -1,0 +1,101 @@
+{
+  "title": "Ordinance-Making Power in India",
+  "information": [
+    {
+      "title": "Constitutional Provisions",
+      "description": "Article 123 of the Constitution empowers the President to promulgate ordinances during recess of Parliament. Similarly, Article 213 empowers Governors to issue ordinances when the state legislature is not in session."
+    },
+    {
+      "title": "Conditions",
+      "description": "An ordinance can be promulgated only when both houses of Parliament (or state legislature) are not in session, and the President (or Governor) is satisfied that circumstances exist which render it necessary to take immediate action."
+    },
+    {
+      "title": "Duration",
+      "description": "An ordinance must be laid before Parliament (or state legislature) when it reassembles. It ceases to operate at the expiration of six weeks from the reassembly of Parliament (or state legislature), or if resolutions disapproving it are passed by both Houses."
+    },
+    {
+      "title": "Limitations",
+      "description": "The President cannot promulgate an ordinance without instructions from the Union Cabinet. Similarly, the Governor acts on the advice of the state council of ministers."
+    },
+    {
+      "title": "Scope",
+      "description": "An ordinance has the same force and effect as an Act of Parliament (or state legislature). However, it cannot be used to amend the Constitution or to enact a law which requires a special majority in the legislature."
+    },
+    {
+      "title": "Judicial Review",
+      "description": "The Supreme Court has held that the President's satisfaction can be questioned in a court on the ground of malafide. The same applies to the Governor's ordinance-making power."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "Which Article of the Constitution empowers the President to promulgate ordinances?",
+      "options": ["Article 123", "Article 213", "Article 352", "Article 356"],
+      "correctAnswer": "Article 123",
+      "type": "MCQ"
+    },
+    {
+      "question": "How long can an ordinance remain in force after the reassembly of Parliament?",
+      "options": [
+        "Six weeks",
+        "Three months",
+        "One year",
+        "Until Parliament approves it"
+      ],
+      "correctAnswer": "Six weeks",
+      "type": "MCQ"
+    },
+    {
+      "question": "Who advises the President on promulgating ordinances?",
+      "options": [
+        "Union Cabinet",
+        "Prime Minister alone",
+        "Chief Justice of India",
+        "Speaker of Lok Sabha"
+      ],
+      "correctAnswer": "Union Cabinet",
+      "type": "MCQ"
+    },
+    {
+      "question": "Can an ordinance be used to amend the Constitution?",
+      "options": [
+        "No",
+        "Yes",
+        "Only in emergencies",
+        "Only with Supreme Court's approval"
+      ],
+      "correctAnswer": "No",
+      "type": "MCQ"
+    },
+    {
+      "question": "The ordinance-making power of the Governor is provided under which Article?",
+      "options": ["Article 213", "Article 123", "Article 352", "Article 356"],
+      "correctAnswer": "Article 213",
+      "type": "MCQ"
+    },
+    {
+      "question": "An ordinance has the same force and effect as an Act of Parliament.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The President can promulgate an ordinance without the advice of the Union Cabinet.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "An ordinance can be promulgated even when Parliament is in session.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The Supreme Court can review the President's satisfaction in promulgating an ordinance.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "An ordinance automatically becomes void if not approved by Parliament within six weeks of its reassembly.",
+      "correctAnswer": true,
+      "type": "TF"
+    }
+  ]
+}

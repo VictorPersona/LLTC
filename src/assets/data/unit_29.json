@@ -1,0 +1,105 @@
+{
+  "title": "Cooperative Societies in India",
+  "information": [
+    {
+      "title": "Constitutional Status",
+      "description": "The 97th Constitutional Amendment Act, 2011 gave constitutional status and protection to cooperative societies. It made the right to form cooperative societies a fundamental right (Article 19(1)(c))."
+    },
+    {
+      "title": "Definition",
+      "description": "Cooperative societies are voluntary associations of individuals having common needs who join hands for the achievement of common economic interest."
+    },
+    {
+      "title": "Part IXB of the Constitution",
+      "description": "This part was added by the 97th Amendment. It deals with the incorporation, regulation and winding up of co-operative societies based on the principles of voluntary formation, democratic member control, member economic participation and autonomous functioning."
+    },
+    {
+      "title": "State's Role",
+      "description": "Article 43B, added as a Directive Principle of State Policy, says that states shall endeavor to promote voluntary formation, autonomous functioning, democratic control and professional management of cooperative societies."
+    },
+    {
+      "title": "Types of Cooperatives",
+      "description": "There are various types of cooperative societies in India, including consumer cooperatives, producer cooperatives, credit cooperatives, housing cooperatives, and marketing cooperatives."
+    },
+    {
+      "title": "Regulation",
+      "description": "Cooperatives are regulated by state laws, as 'cooperative societies' is a State subject under the Seventh Schedule of the Constitution. However, multi-state cooperatives are regulated by the Central Multi-State Cooperative Societies Act, 2002."
+    },
+    {
+      "title": "Challenges",
+      "description": "Despite constitutional protection, cooperatives in India face challenges such as lack of active participation of members, financial constraints, and political interference."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "Which Constitutional Amendment gave constitutional status to cooperative societies?",
+      "options": [
+        "97th Amendment",
+        "73rd Amendment",
+        "86th Amendment",
+        "101st Amendment"
+      ],
+      "correctAnswer": "97th Amendment",
+      "type": "MCQ"
+    },
+    {
+      "question": "Under which Article is the right to form cooperative societies made a fundamental right?",
+      "options": ["Article 19(1)(c)", "Article 21", "Article 14", "Article 32"],
+      "correctAnswer": "Article 19(1)(c)",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which part of the Constitution deals with cooperative societies?",
+      "options": ["Part IXB", "Part IXA", "Part IV", "Part III"],
+      "correctAnswer": "Part IXB",
+      "type": "MCQ"
+    },
+    {
+      "question": "Under which list of the Seventh Schedule does 'cooperative societies' fall?",
+      "options": [
+        "State List",
+        "Union List",
+        "Concurrent List",
+        "None of the above"
+      ],
+      "correctAnswer": "State List",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which Act regulates multi-state cooperatives in India?",
+      "options": [
+        "Central Multi-State Cooperative Societies Act, 2002",
+        "Cooperative Societies Act, 1912",
+        "Banking Regulation Act, 1949",
+        "Companies Act, 2013"
+      ],
+      "correctAnswer": "Central Multi-State Cooperative Societies Act, 2002",
+      "type": "MCQ"
+    },
+    {
+      "question": "The 97th Constitutional Amendment made the right to form cooperative societies a fundamental right.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "Cooperative societies in India are based on the principle of compulsory formation.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "Article 43B, added as a Directive Principle, relates to the promotion of cooperative societies.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "All cooperative societies in India are regulated by central laws.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "Cooperative societies in India face no challenges in their functioning.",
+      "correctAnswer": false,
+      "type": "TF"
+    }
+  ]
+}

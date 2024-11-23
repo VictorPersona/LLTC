@@ -1,0 +1,96 @@
+{
+  "title": "Official Language in India",
+  "information": [
+    {
+      "title": "Constitutional Provisions",
+      "description": "Part XVII of the Indian Constitution (Articles 343 to 351) deals with the official language. Initially, the Constitution recognized 14 languages, which has now increased to 22 languages in the Eighth Schedule."
+    },
+    {
+      "title": "Hindi and English",
+      "description": "Article 343 declares Hindi in Devanagari script as the official language of the Union. English is also allowed to be used for official purposes. Initially, English was to be phased out by 1965, but the Official Languages Act of 1963 allowed for its continued use."
+    },
+    {
+      "title": "State Languages",
+      "description": "States can adopt their own official languages through legislation. Many states have their own official languages, which may be different from Hindi."
+    },
+    {
+      "title": "Three-Language Formula",
+      "description": "This educational policy recommends the study of Hindi, English, and the regional language in Hindi-speaking states, and Hindi, English, and a regional language in non-Hindi speaking states."
+    },
+    {
+      "title": "Classical Languages",
+      "description": "The government has declared six languages as Classical Languages: Tamil, Sanskrit, Telugu, Kannada, Malayalam, and Odia. These languages receive special promotion and development funds."
+    },
+    {
+      "title": "Language of the Courts",
+      "description": "English is the primary language used in the Supreme Court and High Courts. However, some High Courts allow the use of regional languages."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "Which part of the Indian Constitution deals with the official language?",
+      "options": ["Part XVII", "Part XVI", "Part XVIII", "Part XV"],
+      "correctAnswer": "Part XVII",
+      "type": "MCQ"
+    },
+    {
+      "question": "What is the official language of the Union of India according to Article 343?",
+      "options": [
+        "Hindi in Devanagari script",
+        "English",
+        "Sanskrit",
+        "Both Hindi and English"
+      ],
+      "correctAnswer": "Hindi in Devanagari script",
+      "type": "MCQ"
+    },
+    {
+      "question": "How many languages are currently recognized in the Eighth Schedule of the Constitution?",
+      "options": ["22", "14", "18", "25"],
+      "correctAnswer": "22",
+      "type": "MCQ"
+    },
+    {
+      "question": "What is the Three-Language Formula?",
+      "options": [
+        "An educational policy for language learning in schools",
+        "A system for official communication in government offices",
+        "A method for translating court documents",
+        "A formula for creating new languages"
+      ],
+      "correctAnswer": "An educational policy for language learning in schools",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which language is primarily used in the Supreme Court and High Courts?",
+      "options": ["English", "Hindi", "Sanskrit", "Regional languages"],
+      "correctAnswer": "English",
+      "type": "MCQ"
+    },
+    {
+      "question": "The Indian Constitution initially recognized 22 languages in the Eighth Schedule.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "States in India can adopt their own official languages through legislation.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The Official Languages Act of 1963 phased out the use of English for official purposes.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "All High Courts in India exclusively use English for their proceedings.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The government has declared six languages as Classical Languages in India.",
+      "correctAnswer": true,
+      "type": "TF"
+    }
+  ]
+}

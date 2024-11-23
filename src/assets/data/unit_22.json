@@ -1,0 +1,106 @@
+{
+  "title": "Non-Constitutional Bodies in India",
+  "information": [
+    {
+      "title": "Definition",
+      "description": "Non-Constitutional bodies are organizations that are not specifically mentioned in the Constitution but are created by acts of Parliament or executive decisions to address specific needs or perform specialized functions."
+    },
+    {
+      "title": "NITI Aayog",
+      "description": "Established in 2015 to replace the Planning Commission, it serves as a policy think tank and fosters cooperative federalism."
+    },
+    {
+      "title": "Central Vigilance Commission",
+      "description": "Set up in 1964, it is the apex vigilance institution free of control from any executive authority, monitoring all vigilance activity and advising various authorities in central government organizations."
+    },
+    {
+      "title": "National Human Rights Commission",
+      "description": "Established in 1993 under the Protection of Human Rights Act, it is responsible for the protection and promotion of human rights in India."
+    },
+    {
+      "title": "Central Information Commission",
+      "description": "Created under the Right to Information Act 2005, it oversees the implementation of the RTI Act and serves as an appellate authority."
+    },
+    {
+      "title": "National Commission for Women",
+      "description": "Established in 1992, it reviews the constitutional and legal safeguards for women, recommends remedial legislative measures, and advises the government on policy matters affecting women."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "Which of the following is a non-constitutional body?",
+      "options": [
+        "NITI Aayog",
+        "Election Commission",
+        "Finance Commission",
+        "Union Public Service Commission"
+      ],
+      "correctAnswer": "NITI Aayog",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which body replaced the Planning Commission in 2015?",
+      "options": [
+        "NITI Aayog",
+        "Central Vigilance Commission",
+        "National Human Rights Commission",
+        "Central Information Commission"
+      ],
+      "correctAnswer": "NITI Aayog",
+      "type": "MCQ"
+    },
+    {
+      "question": "Under which Act was the National Human Rights Commission established?",
+      "options": [
+        "Protection of Human Rights Act, 1993",
+        "Human Rights Act, 1990",
+        "Civil Rights Act, 1995",
+        "Fundamental Rights Protection Act, 1992"
+      ],
+      "correctAnswer": "Protection of Human Rights Act, 1993",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which commission oversees the implementation of the Right to Information Act?",
+      "options": [
+        "Central Information Commission",
+        "Central Vigilance Commission",
+        "National Human Rights Commission",
+        "National Commission for Women"
+      ],
+      "correctAnswer": "Central Information Commission",
+      "type": "MCQ"
+    },
+    {
+      "question": "In which year was the National Commission for Women established?",
+      "options": ["1992", "1990", "1995", "2000"],
+      "correctAnswer": "1992",
+      "type": "MCQ"
+    },
+    {
+      "question": "Non-Constitutional bodies are specifically mentioned in the Constitution of India.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The Central Vigilance Commission was established in 1964.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "NITI Aayog serves as a policy think tank and fosters cooperative federalism.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The Central Information Commission was created under the Freedom of Information Act.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The National Commission for Women advises the government on policy matters affecting women.",
+      "correctAnswer": true,
+      "type": "TF"
+    }
+  ]
+}

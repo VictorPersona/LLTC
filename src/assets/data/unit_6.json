@@ -1,0 +1,106 @@
+{
+  "title": "Indian Judiciary",
+  "information": [
+    {
+      "title": "Structure",
+      "description": "The Indian Judiciary consists of the Supreme Court at the apex, High Courts at the state level, and District Courts at the district level. The Supreme Court is the highest court of appeal and the guardian of the Constitution."
+    },
+    {
+      "title": "Supreme Court",
+      "description": "The Supreme Court of India is the highest judicial forum and final court of appeal. It consists of the Chief Justice and 33 other judges. The Supreme Court has original, appellate, and advisory jurisdictions."
+    },
+    {
+      "title": "High Courts",
+      "description": "Each state has a High Court, which is the highest court in the state. Some High Courts have jurisdiction over more than one state or union territory. High Courts have original and appellate jurisdictions in their respective states."
+    },
+    {
+      "title": "District Courts",
+      "description": "District Courts are established by the state governments for each district or group of districts. They deal with both civil and criminal matters and are subordinate to the High Court of the state."
+    },
+    {
+      "title": "Judicial Review",
+      "description": "The power of Judicial Review allows the judiciary to examine the constitutionality of legislative enactments and executive orders. This power helps maintain the supremacy of the Constitution."
+    },
+    {
+      "title": "Independence of Judiciary",
+      "description": "The Constitution ensures the independence of the judiciary through various provisions, including security of tenure for judges, fixed salaries, and prohibition on discussion of judges' conduct in legislatures."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "What is the highest court in India?",
+      "options": [
+        "Supreme Court",
+        "High Court",
+        "District Court",
+        "Parliament"
+      ],
+      "correctAnswer": "Supreme Court",
+      "type": "MCQ"
+    },
+    {
+      "question": "How many judges does the Supreme Court of India have, including the Chief Justice?",
+      "options": ["34", "25", "50", "100"],
+      "correctAnswer": "34",
+      "type": "MCQ"
+    },
+    {
+      "question": "What is the power of Judicial Review?",
+      "options": [
+        "The power to examine the constitutionality of laws and executive orders",
+        "The power to make laws",
+        "The power to appoint judges",
+        "The power to conduct elections"
+      ],
+      "correctAnswer": "The power to examine the constitutionality of laws and executive orders",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which courts are established by state governments for each district?",
+      "options": [
+        "District Courts",
+        "High Courts",
+        "Supreme Court",
+        "Gram Nyayalayas"
+      ],
+      "correctAnswer": "District Courts",
+      "type": "MCQ"
+    },
+    {
+      "question": "What does the independence of judiciary ensure?",
+      "options": [
+        "Security of tenure for judges",
+        "Judges can participate in politics",
+        "Legislatures can discuss judges' conduct",
+        "Judges' salaries can be reduced"
+      ],
+      "correctAnswer": "Security of tenure for judges",
+      "type": "MCQ"
+    },
+    {
+      "question": "The Supreme Court of India has original, appellate, and advisory jurisdictions.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "Every state in India has its own separate High Court.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "District Courts deal with both civil and criminal matters.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The power of Judicial Review helps maintain the supremacy of the Constitution.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The conduct of judges can be freely discussed in state legislatures.",
+      "correctAnswer": false,
+      "type": "TF"
+    }
+  ]
+}

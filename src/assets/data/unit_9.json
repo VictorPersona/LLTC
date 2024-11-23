@@ -1,0 +1,106 @@
+{
+  "title": "Special Provisions for States in the Indian Constitution",
+  "information": [
+    {
+      "title": "Purpose",
+      "description": "Special provisions are included in the Constitution to address the unique needs, protect the interests, and preserve the cultural identity of certain states and regions in India."
+    },
+    {
+      "title": "Article 370",
+      "description": "Article 370 provided special status to Jammu and Kashmir, giving it significant autonomy. However, in August 2019, this article was effectively abrogated by a presidential order."
+    },
+    {
+      "title": "Article 371",
+      "description": "Articles 371 to 371J contain special provisions for several states including Maharashtra, Gujarat, Nagaland, Assam, Manipur, Andhra Pradesh, Sikkim, Mizoram, Arunachal Pradesh, Goa, and Karnataka."
+    },
+    {
+      "title": "Sixth Schedule",
+      "description": "The Sixth Schedule of the Constitution provides for the administration of tribal areas in Assam, Meghalaya, Tripura, and Mizoram through Autonomous District Councils."
+    },
+    {
+      "title": "Fifth Schedule",
+      "description": "The Fifth Schedule provides for the administration and control of Scheduled Areas and Scheduled Tribes in states other than Assam, Meghalaya, Tripura, and Mizoram."
+    },
+    {
+      "title": "Special Category States",
+      "description": "Some states are designated as Special Category States, which receive preferential treatment in terms of central assistance and tax breaks. This category includes most Northeastern states and some others."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "What is the purpose of special provisions for states in the Indian Constitution?",
+      "options": [
+        "To address unique needs and preserve cultural identity of certain states",
+        "To give more power to the central government",
+        "To reduce the autonomy of all states",
+        "To make all states uniform"
+      ],
+      "correctAnswer": "To address unique needs and preserve cultural identity of certain states",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which article previously provided special status to Jammu and Kashmir?",
+      "options": ["Article 370", "Article 371", "Article 356", "Article 360"],
+      "correctAnswer": "Article 370",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which schedule of the Constitution provides for the administration of tribal areas in certain Northeastern states?",
+      "options": [
+        "Sixth Schedule",
+        "Fifth Schedule",
+        "Seventh Schedule",
+        "Ninth Schedule"
+      ],
+      "correctAnswer": "Sixth Schedule",
+      "type": "MCQ"
+    },
+    {
+      "question": "What does the Fifth Schedule of the Constitution deal with?",
+      "options": [
+        "Administration of Scheduled Areas and Scheduled Tribes in certain states",
+        "List of official languages",
+        "Division of powers between Centre and States",
+        "Panchayati Raj institutions"
+      ],
+      "correctAnswer": "Administration of Scheduled Areas and Scheduled Tribes in certain states",
+      "type": "MCQ"
+    },
+    {
+      "question": "What benefit do Special Category States receive?",
+      "options": [
+        "Preferential treatment in central assistance and tax breaks",
+        "More seats in Parliament",
+        "Separate constitution",
+        "Right to secede from India"
+      ],
+      "correctAnswer": "Preferential treatment in central assistance and tax breaks",
+      "type": "MCQ"
+    },
+    {
+      "question": "Article 370, providing special status to Jammu and Kashmir, is still fully operational.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The Sixth Schedule applies to all states in India.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "Special provisions for states are included in Articles 371 to 371J of the Constitution.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The Fifth Schedule and Sixth Schedule deal with the same states.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "Most Northeastern states are designated as Special Category States.",
+      "correctAnswer": true,
+      "type": "TF"
+    }
+  ]
+}

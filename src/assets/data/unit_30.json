@@ -1,0 +1,104 @@
+{
+  "title": "Public Services in India",
+  "information": [
+    {
+      "title": "Constitutional Provisions",
+      "description": "Part XIV of the Indian Constitution (Articles 308-323) deals with Services under the Union and the States. It provides for the regulation of recruitment and conditions of service of persons appointed to public services."
+    },
+    {
+      "title": "All India Services",
+      "description": "These are common to the Union and the States, and include the Indian Administrative Service (IAS), Indian Police Service (IPS), and Indian Forest Service (IFS). They are recruited and trained by the Central Government but serve under both Central and State Governments."
+    },
+    {
+      "title": "Central Services",
+      "description": "These are services under the Union Government, divided into four groups: A, B, C, and D. Group A includes higher civil services like Indian Foreign Service, Indian Revenue Service, etc."
+    },
+    {
+      "title": "State Services",
+      "description": "These are services under the State Governments, also typically divided into groups similar to Central Services. They include services like State Civil Service, State Police Service, etc."
+    },
+    {
+      "title": "Union Public Service Commission (UPSC)",
+      "description": "Established under Article 315, UPSC conducts examinations for recruitment to All India Services and Central Services. It also advises the government on matters related to civil services."
+    },
+    {
+      "title": "State Public Service Commissions",
+      "description": "Each state has its own Public Service Commission for recruitment to State Services and for advising the state government on service matters."
+    },
+    {
+      "title": "Doctrine of Pleasure",
+      "description": "Article 310 states that public servants hold office during the pleasure of the President or the Governor. However, this is subject to constitutional safeguards provided under Article 311."
+    },
+    {
+      "title": "Safeguards for Civil Servants",
+      "description": "Article 311 provides two important safeguards: (1) A civil servant cannot be dismissed or removed by an authority subordinate to that by which he was appointed. (2) No civil servant can be dismissed or removed or reduced in rank without an inquiry."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "Which part of the Indian Constitution deals with Services under the Union and the States?",
+      "options": ["Part XIV", "Part XV", "Part XVI", "Part XII"],
+      "correctAnswer": "Part XIV",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which of the following is NOT an All India Service?",
+      "options": [
+        "Indian Foreign Service",
+        "Indian Administrative Service",
+        "Indian Police Service",
+        "Indian Forest Service"
+      ],
+      "correctAnswer": "Indian Foreign Service",
+      "type": "MCQ"
+    },
+    {
+      "question": "Under which Article is the Union Public Service Commission established?",
+      "options": ["Article 315", "Article 310", "Article 311", "Article 320"],
+      "correctAnswer": "Article 315",
+      "type": "MCQ"
+    },
+    {
+      "question": "What does the 'Doctrine of Pleasure' in the context of public services mean?",
+      "options": [
+        "Public servants hold office during the pleasure of the President or Governor",
+        "Public servants can leave their job at their pleasure",
+        "Public servants can be transferred at the pleasure of their superiors",
+        "Public servants can choose their place of posting"
+      ],
+      "correctAnswer": "Public servants hold office during the pleasure of the President or Governor",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which Article provides safeguards for civil servants against arbitrary dismissal or removal?",
+      "options": ["Article 311", "Article 310", "Article 315", "Article 320"],
+      "correctAnswer": "Article 311",
+      "type": "MCQ"
+    },
+    {
+      "question": "The Indian Administrative Service (IAS) is a State Service.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The Union Public Service Commission conducts examinations for recruitment to State Services.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "Central Services are divided into four groups: A,B,C, and D.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "A civil servant can be dismissed by an authority subordinate to that by which he was appointed.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The 'Doctrine of Pleasure' is subject to constitutional safeguards provided under Article 311.",
+      "correctAnswer": true,
+      "type": "TF"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "title": "Services under the Union and the States (Part XIV of the Indian Constitution)",
+  "information": [
+    {
+      "title": "Constitutional Provisions",
+      "description": "Part XIV of the Constitution (Articles 308-323) deals with Services under the Union and the States. It provides for the regulation of recruitment and conditions of service of persons appointed to public services."
+    },
+    {
+      "title": "All India Services",
+      "description": "These are common to the Union and the States, including the Indian Administrative Service (IAS), Indian Police Service (IPS), and Indian Forest Service (IFS). They are recruited by the Union but serve under both Union and State governments."
+    },
+    {
+      "title": "Central Services",
+      "description": "These are services under the Union Government, categorized into Group A, B, C, and D. Examples include Indian Foreign Service, Indian Revenue Service, etc."
+    },
+    {
+      "title": "State Services",
+      "description": "These are services under the State Governments, also typically categorized into groups. They include services like State Civil Service, State Police Service, etc."
+    },
+    {
+      "title": "Public Service Commissions",
+      "description": "Article 315 provides for the establishment of Union Public Service Commission (UPSC) for the Union and a State Public Service Commission for each State. These bodies conduct examinations for appointments to the services."
+    },
+    {
+      "title": "Tenure of Office",
+      "description": "Article 310 states that members of civil services hold office during the pleasure of the President or the Governor, as the case may be. However, this is subject to constitutional safeguards under Article 311."
+    },
+    {
+      "title": "Safeguards",
+      "description": "Article 311 provides two important safeguards: (1) A civil servant cannot be dismissed or removed by an authority subordinate to the appointing authority. (2) No civil servant can be dismissed, removed, or reduced in rank without an inquiry."
+    },
+    {
+      "title": "Reservation in Services",
+      "description": "Article 16(4) allows the State to make provisions for reservation in appointments in favor of backward classes of citizens which are not adequately represented in the services."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "Which part of the Indian Constitution deals with Services under the Union and the States?",
+      "options": ["Part XIV", "Part XV", "Part XVI", "Part XIII"],
+      "correctAnswer": "Part XIV",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which of the following is NOT an All India Service?",
+      "options": [
+        "Indian Foreign Service",
+        "Indian Administrative Service",
+        "Indian Police Service",
+        "Indian Forest Service"
+      ],
+      "correctAnswer": "Indian Foreign Service",
+      "type": "MCQ"
+    },
+    {
+      "question": "Under which Article is the Union Public Service Commission established?",
+      "options": ["Article 315", "Article 310", "Article 311", "Article 316"],
+      "correctAnswer": "Article 315",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which Article provides safeguards for civil servants against arbitrary dismissal?",
+      "options": ["Article 311", "Article 310", "Article 315", "Article 316"],
+      "correctAnswer": "Article 311",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which Article allows for reservation in appointments for backward classes?",
+      "options": ["Article 16(4)", "Article 15(4)", "Article 17", "Article 18"],
+      "correctAnswer": "Article 16(4)",
+      "type": "MCQ"
+    },
+    {
+      "question": "Members of All India Services serve only under the Union Government.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The Union Public Service Commission conducts examinations for State Services.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "A civil servant can be dismissed by an authority subordinate to the appointing authority.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "Central Services are categorized into Group A, B, C, and D.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The Constitution provides for the establishment of a Public Service Commission for each State.",
+      "correctAnswer": true,
+      "type": "TF"
+    }
+  ]
+}

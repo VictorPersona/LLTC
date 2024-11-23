@@ -1,0 +1,101 @@
+{
+  "title": "Constitutional Bodies in India",
+  "information": [
+    {
+      "title": "Definition",
+      "description": "Constitutional bodies are organizations that are specifically mentioned in the Constitution of India. They derive their powers and authorities directly from the Constitution."
+    },
+    {
+      "title": "Election Commission",
+      "description": "Established under Article 324, it conducts free and fair elections to the Parliament, State Legislatures, and offices of President and Vice-President."
+    },
+    {
+      "title": "Union Public Service Commission",
+      "description": "Mentioned in Article 315, it conducts civil service examinations and advises the government on matters of recruitment and disciplinary issues."
+    },
+    {
+      "title": "Comptroller and Auditor General",
+      "description": "Provided for in Article 148, it audits all receipts and expenditures of the Government of India and the state governments."
+    },
+    {
+      "title": "Finance Commission",
+      "description": "Established under Article 280, it recommends the distribution of tax proceeds between the Centre and the States."
+    },
+    {
+      "title": "National Commission for Scheduled Castes",
+      "description": "Mentioned in Article 338, it works for the socio-economic development of Scheduled Castes and to prevent atrocities against them."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "Which of the following is NOT a constitutional body?",
+      "options": [
+        "Central Vigilance Commission",
+        "Election Commission",
+        "Finance Commission",
+        "Union Public Service Commission"
+      ],
+      "correctAnswer": "Central Vigilance Commission",
+      "type": "MCQ"
+    },
+    {
+      "question": "Under which Article is the Election Commission established?",
+      "options": ["Article 324", "Article 315", "Article 280", "Article 148"],
+      "correctAnswer": "Article 324",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which constitutional body is responsible for conducting civil service examinations?",
+      "options": [
+        "Union Public Service Commission",
+        "Election Commission",
+        "Finance Commission",
+        "Comptroller and Auditor General"
+      ],
+      "correctAnswer": "Union Public Service Commission",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which Article of the Constitution provides for the Comptroller and Auditor General?",
+      "options": ["Article 148", "Article 324", "Article 280", "Article 315"],
+      "correctAnswer": "Article 148",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which constitutional body recommends the distribution of tax proceeds between the Centre and the States?",
+      "options": [
+        "Finance Commission",
+        "Election Commission",
+        "Union Public Service Commission",
+        "National Commission for Scheduled Castes"
+      ],
+      "correctAnswer": "Finance Commission",
+      "type": "MCQ"
+    },
+    {
+      "question": "Constitutional bodies derive their powers directly from the Constitution of India.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The Election Commission is responsible for conducting elections to local bodies.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The Comptroller and Auditor General audits all receipts and expenditures of the Government of India and state governments.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The Finance Commission is a permanent constitutional body.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The National Commission for Scheduled Castes is mentioned in Article 338 of the Constitution.",
+      "correctAnswer": true,
+      "type": "TF"
+    }
+  ]
+}

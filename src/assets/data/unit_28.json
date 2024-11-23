@@ -1,0 +1,109 @@
+{
+  "title": "Judicial Review in India",
+  "information": [
+    {
+      "title": "Definition",
+      "description": "Judicial review is the power of the judiciary to examine the constitutionality of legislative enactments and executive orders of both the Central and State governments."
+    },
+    {
+      "title": "Constitutional Basis",
+      "description": "While not explicitly mentioned, judicial review is derived from various provisions of the Constitution, particularly Articles 13, 32, 136, 141, 142, 226, and 227."
+    },
+    {
+      "title": "Article 13",
+      "description": "It declares that all laws that are inconsistent with or in derogation of the fundamental rights shall be void."
+    },
+    {
+      "title": "Article 32 and 226",
+      "description": "These articles empower the Supreme Court and High Courts respectively to issue writs for the enforcement of fundamental rights."
+    },
+    {
+      "title": "Scope",
+      "description": "Judicial review in India extends to legislative, executive, and administrative actions. It can declare laws, ordinances, orders, bye-laws, regulations, customs, or usages unconstitutional."
+    },
+    {
+      "title": "Limitations",
+      "description": "The judiciary cannot question the wisdom of the legislature in enacting a law. It can only determine if the law is constitutional or not."
+    },
+    {
+      "title": "Basic Structure Doctrine",
+      "description": "Established in the Kesavananda Bharati case (1973), this doctrine states that the basic features of the Constitution cannot be altered or destroyed through amendments by the Parliament."
+    },
+    {
+      "title": "Judicial Activism",
+      "description": "Through judicial review, the Indian judiciary has often been proactive in protecting rights and ensuring good governance, leading to what is sometimes called 'judicial activism'."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "Which Article of the Constitution declares that laws inconsistent with fundamental rights shall be void?",
+      "options": ["Article 13", "Article 32", "Article 226", "Article 141"],
+      "correctAnswer": "Article 13",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which case established the Basic Structure Doctrine?",
+      "options": [
+        "Kesavananda Bharati case",
+        "Golaknath case",
+        "Minerva Mills case",
+        "S.R. Bommai case"
+      ],
+      "correctAnswer": "Kesavananda Bharati case",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which of the following is NOT a basis for judicial review in the Indian Constitution?",
+      "options": ["Article 368", "Article 32", "Article 226", "Article 13"],
+      "correctAnswer": "Article 368",
+      "type": "MCQ"
+    },
+    {
+      "question": "What does the Basic Structure Doctrine state?",
+      "options": [
+        "The basic features of the Constitution cannot be altered or destroyed through amendments",
+        "The Constitution can be amended in any way by the Parliament",
+        "Only the Supreme Court can amend the Constitution",
+        "The Constitution cannot be amended at all"
+      ],
+      "correctAnswer": "The basic features of the Constitution cannot be altered or destroyed through amendments",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which courts in India have the power of judicial review?",
+      "options": [
+        "Both Supreme Court and High Courts",
+        "Only Supreme Court",
+        "Only High Courts",
+        "All courts including district courts"
+      ],
+      "correctAnswer": "Both Supreme Court and High Courts",
+      "type": "MCQ"
+    },
+    {
+      "question": "Judicial review is explicitly mentioned in the Indian Constitution.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The judiciary can question the wisdom of the legislature in enacting a law.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "Judicial review in India extends to legislative, executive, and administrative actions.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The Basic Structure Doctrine was established in the Golaknath case.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "Judicial review has sometimes led to what is called 'judicial activism' in India.",
+      "correctAnswer": true,
+      "type": "TF"
+    }
+  ]
+}

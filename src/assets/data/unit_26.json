@@ -1,0 +1,100 @@
+{
+  "title": "Inter-State Relations in India",
+  "information": [
+    {
+      "title": "Constitutional Provisions",
+      "description": "Part XI of the Indian Constitution (Articles 245-263) deals with relations between the Union and the States, including provisions for inter-state relations."
+    },
+    {
+      "title": "Legislative Relations",
+      "description": "The Seventh Schedule divides legislative powers between the Union and States through Union, State, and Concurrent Lists. In case of conflict, the Union law prevails in the Concurrent List."
+    },
+    {
+      "title": "Administrative Relations",
+      "description": "The Constitution provides for cooperation between the Centre and States in administrative matters. The Union can give directions to the States on certain matters."
+    },
+    {
+      "title": "Inter-State Council",
+      "description": "Article 263 provides for the establishment of an Inter-State Council to investigate and discuss subjects of common interest between the Union and States."
+    },
+    {
+      "title": "Zonal Councils",
+      "description": "Five Zonal Councils (Northern, Central, Eastern, Western, and Southern) have been set up to foster cooperation among states in each zone."
+    },
+    {
+      "title": "Inter-State Water Disputes",
+      "description": "Article 262 empowers Parliament to provide for the adjudication of disputes relating to waters of inter-state rivers or river valleys."
+    },
+    {
+      "title": "Freedom of Trade and Commerce",
+      "description": "Article 301 ensures freedom of trade, commerce, and intercourse throughout the territory of India, subject to certain restrictions."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "Which part of the Indian Constitution deals with relations between the Union and the States?",
+      "options": ["Part XI", "Part X", "Part XII", "Part IX"],
+      "correctAnswer": "Part XI",
+      "type": "MCQ"
+    },
+    {
+      "question": "What does Article 263 of the Constitution provide for?",
+      "options": [
+        "Establishment of an Inter-State Council",
+        "Resolution of water disputes",
+        "Division of legislative powers",
+        "Creation of All India Services"
+      ],
+      "correctAnswer": "Establishment of an Inter-State Council",
+      "type": "MCQ"
+    },
+    {
+      "question": "How many Zonal Councils have been set up in India?",
+      "options": ["5", "4", "6", "7"],
+      "correctAnswer": "5",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which Article empowers Parliament to provide for the adjudication of inter-state water disputes?",
+      "options": ["Article 262", "Article 263", "Article 280", "Article 301"],
+      "correctAnswer": "Article 262",
+      "type": "MCQ"
+    },
+    {
+      "question": "What does Article 301 of the Constitution ensure?",
+      "options": [
+        "Freedom of trade and commerce throughout India",
+        "Formation of new states",
+        "Appointment of Governors",
+        "Distribution of legislative powers"
+      ],
+      "correctAnswer": "Freedom of trade and commerce throughout India",
+      "type": "MCQ"
+    },
+    {
+      "question": "In case of conflict between Union and State laws on a subject in the Concurrent List, the State law prevails.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The Inter-State Council is a permanent constitutional body.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "Zonal Councils have been set up to foster cooperation among states in each zone.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The Union government can give directions to the States on certain matters as per the Constitution.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The Seventh Schedule of the Constitution divides legislative powers between the Union and States.",
+      "correctAnswer": true,
+      "type": "TF"
+    }
+  ]
+}

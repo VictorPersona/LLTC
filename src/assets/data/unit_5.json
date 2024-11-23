@@ -1,0 +1,115 @@
+{
+  "title": "Parliamentary System in India",
+  "information": [
+    {
+      "title": "Definition",
+      "description": "India follows a parliamentary system of government, where the executive is responsible to the legislature. This system is based on the Westminster model of the United Kingdom."
+    },
+    {
+      "title": "Features",
+      "description": "Key features include a nominal and real executive, majority party rule, collective responsibility of the executive to the legislature, leadership of the Prime Minister, and a bicameral legislature."
+    },
+    {
+      "title": "Nominal vs Real Executive",
+      "description": "The President is the nominal executive (head of state), while the Prime Minister is the real executive (head of government). The Prime Minister and Council of Ministers exercise actual power."
+    },
+    {
+      "title": "Majority Party Rule",
+      "description": "The political party or coalition with a majority in the Lok Sabha forms the government. The leader of this party/coalition usually becomes the Prime Minister."
+    },
+    {
+      "title": "Collective Responsibility",
+      "description": "The Council of Ministers is collectively responsible to the Lok Sabha. This means the entire Council resigns if it loses the confidence of the Lok Sabha."
+    },
+    {
+      "title": "Bicameral Legislature",
+      "description": "India has a bicameral legislature consisting of the Lok Sabha (House of the People) and the Rajya Sabha (Council of States). The Lok Sabha is the more powerful house."
+    },
+    {
+      "title": "Question Hour",
+      "description": "During Question Hour, Members of Parliament can ask questions to ministers about their respective ministries. This ensures accountability of the executive to the legislature."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "Which system of government does India follow?",
+      "options": [
+        "Parliamentary system",
+        "Presidential system",
+        "Federal system",
+        "Unitary system"
+      ],
+      "correctAnswer": "Parliamentary system",
+      "type": "MCQ"
+    },
+    {
+      "question": "Who is considered the real executive in India's parliamentary system?",
+      "options": [
+        "Prime Minister",
+        "President",
+        "Speaker of Lok Sabha",
+        "Chief Justice"
+      ],
+      "correctAnswer": "Prime Minister",
+      "type": "MCQ"
+    },
+    {
+      "question": "What is the term for the Council of Ministers' answerability to the Lok Sabha?",
+      "options": [
+        "Collective responsibility",
+        "Individual accountability",
+        "Ministerial privilege",
+        "Executive immunity"
+      ],
+      "correctAnswer": "Collective responsibility",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which house is considered more powerful in India's bicameral legislature?",
+      "options": [
+        "Lok Sabha",
+        "Rajya Sabha",
+        "Both are equally powerful",
+        "It depends on the situation"
+      ],
+      "correctAnswer": "Lok Sabha",
+      "type": "MCQ"
+    },
+    {
+      "question": "What is the purpose of Question Hour in the Indian Parliament?",
+      "options": [
+        "To ensure accountability of the executive",
+        "To pass bills",
+        "To elect the Prime Minister",
+        "To amend the Constitution"
+      ],
+      "correctAnswer": "To ensure accountability of the executive",
+      "type": "MCQ"
+    },
+    {
+      "question": "India's parliamentary system is based on the Westminster model of the United Kingdom.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "In India's parliamentary system, the President is the real executive.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The political party with a majority in the Rajya Sabha forms the government.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The Council of Ministers is individually responsible to the Lok Sabha.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "India has a bicameral legislature consisting of the Lok Sabha and Rajya Sabha.",
+      "correctAnswer": true,
+      "type": "TF"
+    }
+  ]
+}

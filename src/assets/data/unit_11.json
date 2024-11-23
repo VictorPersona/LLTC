@@ -1,0 +1,101 @@
+{
+  "title": "Reservation Policy in India",
+  "information": [
+    {
+      "title": "Definition",
+      "description": "Reservation in India is a system of affirmative action that provides representation for historically disadvantaged groups in education, employment, and politics."
+    },
+    {
+      "title": "Constitutional Basis",
+      "description": "Articles 15 and 16 of the Indian Constitution provide for reservation for Scheduled Castes (SCs), Scheduled Tribes (STs), and Other Backward Classes (OBCs) in public employment and education."
+    },
+    {
+      "title": "Categories",
+      "description": "The main categories for reservation are Scheduled Castes (SCs), Scheduled Tribes (STs), and Other Backward Classes (OBCs). Some states also have reservations for Economically Weaker Sections (EWS)."
+    },
+    {
+      "title": "Percentage of Reservation",
+      "description": "The Supreme Court has capped the reservation at 50% in most cases. However, some states have exceeded this limit. The current reservation stands at 15% for SCs, 7.5% for STs, and 27% for OBCs in central government jobs and educational institutions."
+    },
+    {
+      "title": "Creamy Layer",
+      "description": "The concept of 'creamy layer' applies to OBCs, excluding the advanced sections of these communities from the benefits of reservation. This is determined based on income and other socio-economic factors."
+    },
+    {
+      "title": "Women's Reservation",
+      "description": "There is 33% reservation for women in local bodies (Panchayats and Municipalities). A bill for 33% reservation for women in Parliament and state legislatures is pending."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "What is the primary purpose of the reservation policy in India?",
+      "options": [
+        "To provide representation for historically disadvantaged groups",
+        "To reduce government expenditure",
+        "To increase foreign investment",
+        "To promote privatization"
+      ],
+      "correctAnswer": "To provide representation for historically disadvantaged groups",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which Articles of the Indian Constitution provide for reservation in public employment and education?",
+      "options": [
+        "Articles 15 and 16",
+        "Articles 14 and 21",
+        "Articles 19 and 20",
+        "Articles 25 and 26"
+      ],
+      "correctAnswer": "Articles 15 and 16",
+      "type": "MCQ"
+    },
+    {
+      "question": "What is the current percentage of reservation for OBCs in central government jobs?",
+      "options": ["27%", "15%", "7.5%", "33%"],
+      "correctAnswer": "27%",
+      "type": "MCQ"
+    },
+    {
+      "question": "What does the concept of 'creamy layer' refer to in the context of reservation?",
+      "options": [
+        "Advanced sections of OBCs excluded from reservation benefits",
+        "Highest income group in India",
+        "Top-ranking government officials",
+        "Economically weaker sections of forward castes"
+      ],
+      "correctAnswer": "Advanced sections of OBCs excluded from reservation benefits",
+      "type": "MCQ"
+    },
+    {
+      "question": "What percentage of seats are reserved for women in local bodies?",
+      "options": ["33%", "25%", "50%", "10%"],
+      "correctAnswer": "33%",
+      "type": "MCQ"
+    },
+    {
+      "question": "The Supreme Court has capped reservation at 50% in most cases.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "Reservation is provided only in government jobs and not in educational institutions.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The concept of 'creamy layer' applies to Scheduled Castes and Scheduled Tribes.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "There is currently 33% reservation for women in the Indian Parliament.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "Some states in India have exceeded the 50% cap on reservations set by the Supreme Court.",
+      "correctAnswer": true,
+      "type": "TF"
+    }
+  ]
+}

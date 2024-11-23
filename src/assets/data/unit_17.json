@@ -1,0 +1,111 @@
+{
+  "title": "Tribunals and Quasi-Judicial Bodies in India",
+  "information": [
+    {
+      "title": "Definition",
+      "description": "Tribunals are specialized courts established to handle specific types of disputes. Quasi-judicial bodies are administrative agencies that have powers resembling those of courts but are not part of the regular court system."
+    },
+    {
+      "title": "Constitutional Basis",
+      "description": "Articles 323A and 323B of the Constitution, introduced by the 42nd Amendment in 1976, provide for the establishment of administrative tribunals and tribunals for other matters respectively."
+    },
+    {
+      "title": "Types of Tribunals",
+      "description": "India has various tribunals including the National Green Tribunal, Income Tax Appellate Tribunal, Central Administrative Tribunal, Armed Forces Tribunal, and National Company Law Tribunal, among others."
+    },
+    {
+      "title": "Functions",
+      "description": "Tribunals and quasi-judicial bodies adjudicate disputes related to specific areas of law or administration. They aim to provide speedy and specialized justice, reducing the burden on regular courts."
+    },
+    {
+      "title": "Composition",
+      "description": "Tribunals typically consist of a chairperson and members who have expertise in the relevant field. The chairperson is usually a retired judge or a person qualified to be a judge of a high court or the Supreme Court."
+    },
+    {
+      "title": "Appeals",
+      "description": "Decisions of tribunals can generally be appealed in High Courts or the Supreme Court. However, some tribunals like the National Green Tribunal have their orders directly appealable to the Supreme Court."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "Which Constitutional Amendment introduced Articles 323A and 323B related to tribunals?",
+      "options": [
+        "42nd Amendment",
+        "44th Amendment",
+        "52nd Amendment",
+        "73rd Amendment"
+      ],
+      "correctAnswer": "42nd Amendment",
+      "type": "MCQ"
+    },
+    {
+      "question": "What is the main purpose of establishing tribunals?",
+      "options": [
+        "To provide speedy and specialized justice",
+        "To increase government control over judiciary",
+        "To replace regular courts",
+        "To handle only criminal cases"
+      ],
+      "correctAnswer": "To provide speedy and specialized justice",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which of the following is NOT a tribunal in India?",
+      "options": [
+        "Supreme Court",
+        "National Green Tribunal",
+        "Income Tax Appellate Tribunal",
+        "Armed Forces Tribunal"
+      ],
+      "correctAnswer": "Supreme Court",
+      "type": "MCQ"
+    },
+    {
+      "question": "Who typically chairs a tribunal?",
+      "options": [
+        "A retired judge or a person qualified to be a judge of a high court or Supreme Court",
+        "A serving judge of the Supreme Court",
+        "A senior government official",
+        "An elected representative"
+      ],
+      "correctAnswer": "A retired judge or a person qualified to be a judge of a high court or Supreme Court",
+      "type": "MCQ"
+    },
+    {
+      "question": "Where can decisions of most tribunals be appealed?",
+      "options": [
+        "High Courts or Supreme Court",
+        "Only in Supreme Court",
+        "Only in High Courts",
+        "Cannot be appealed"
+      ],
+      "correctAnswer": "High Courts or Supreme Court",
+      "type": "MCQ"
+    },
+    {
+      "question": "Tribunals are part of the regular court system in India.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "Quasi-judicial bodies have powers resembling those of courts.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "All tribunal decisions can only be appealed in the Supreme Court.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "Tribunals aim to reduce the burden on regular courts.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "Members of tribunals do not need to have expertise in the relevant field.",
+      "correctAnswer": false,
+      "type": "TF"
+    }
+  ]
+}

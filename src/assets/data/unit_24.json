@@ -1,0 +1,119 @@
+{
+  "title": "Legislative Process in India",
+  "information": [
+    {
+      "title": "Introduction of a Bill",
+      "description": "A bill can be introduced in either house of Parliament. It can be introduced by a minister (government bill) or by any other member (private member's bill)."
+    },
+    {
+      "title": "First Reading",
+      "description": "The bill is introduced in the house. Its title is read out, and no discussion takes place at this stage."
+    },
+    {
+      "title": "Second Reading",
+      "description": "This stage involves detailed discussion on the bill. It may be referred to a select committee for scrutiny. Amendments can be proposed and voted upon."
+    },
+    {
+      "title": "Committee Stage",
+      "description": "If referred, the bill is examined clause by clause by the committee. The committee then submits its report to the house."
+    },
+    {
+      "title": "Third Reading",
+      "description": "The bill is discussed as a whole. Only formal amendments are allowed at this stage. The house then votes on the bill."
+    },
+    {
+      "title": "Other House",
+      "description": "If passed, the bill is sent to the other house where it goes through similar stages. If passed without amendments, it's sent for President's assent."
+    },
+    {
+      "title": "Joint Session",
+      "description": "In case of disagreement between the two houses, a joint session can be called to resolve the deadlock."
+    },
+    {
+      "title": "President's Assent",
+      "description": "After being passed by both houses, the bill is sent to the President for assent. Once signed, it becomes an Act."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "Who can introduce a bill in the Parliament?",
+      "options": [
+        "Both ministers and other members",
+        "Only ministers",
+        "Only the Prime Minister",
+        "Only opposition members"
+      ],
+      "correctAnswer": "Both ministers and other members",
+      "type": "MCQ"
+    },
+    {
+      "question": "At which stage of the legislative process is detailed discussion on the bill conducted?",
+      "options": [
+        "Second Reading",
+        "First Reading",
+        "Third Reading",
+        "Committee Stage"
+      ],
+      "correctAnswer": "Second Reading",
+      "type": "MCQ"
+    },
+    {
+      "question": "What happens if there's disagreement between the two houses on a bill?",
+      "options": [
+        "A joint session can be called",
+        "The bill is automatically dropped",
+        "The President decides",
+        "The Supreme Court intervenes"
+      ],
+      "correctAnswer": "A joint session can be called",
+      "type": "MCQ"
+    },
+    {
+      "question": "At which stage is a bill examined clause by clause?",
+      "options": [
+        "Committee Stage",
+        "First Reading",
+        "Second Reading",
+        "Third Reading"
+      ],
+      "correctAnswer": "Committee Stage",
+      "type": "MCQ"
+    },
+    {
+      "question": "What is the final stage in the legislative process?",
+      "options": [
+        "President's Assent",
+        "Third Reading",
+        "Joint Session",
+        "Committee Stage"
+      ],
+      "correctAnswer": "President's Assent",
+      "type": "MCQ"
+    },
+    {
+      "question": "A bill becomes an Act immediately after being passed by both houses of Parliament.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The First Reading involves detailed discussion on the bill.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "A joint session can be called to resolve deadlock between the two houses.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "Only government bills can be introduced in Parliament.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The President's assent is necessary for a bill to become an Act.",
+      "correctAnswer": true,
+      "type": "TF"
+    }
+  ]
+}

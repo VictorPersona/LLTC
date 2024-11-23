@@ -1,0 +1,96 @@
+{
+  "title": "Emergency Provisions in the Indian Constitution",
+  "information": [
+    {
+      "title": "Types of Emergencies",
+      "description": "The Indian Constitution provides for three types of emergencies: National Emergency (Article 352), State Emergency (Article 356), and Financial Emergency (Article 360)."
+    },
+    {
+      "title": "National Emergency",
+      "description": "The President can declare a National Emergency if India's security is threatened by war, external aggression, or armed rebellion. It affects fundamental rights and alters the federal structure of government."
+    },
+    {
+      "title": "State Emergency",
+      "description": "Also known as President's Rule, it can be imposed if a state government cannot function according to constitutional provisions. The President takes over the state's administration through the Governor."
+    },
+    {
+      "title": "Financial Emergency",
+      "description": "The President can declare a Financial Emergency if the financial stability or credit of India or any part of its territory is threatened. It has never been invoked so far."
+    },
+    {
+      "title": "Duration and Extension",
+      "description": "Emergency proclamations must be approved by Parliament within one month. They can be extended for six months at a time by parliamentary approval."
+    },
+    {
+      "title": "Effects of Emergency",
+      "description": "During a National Emergency, Fundamental Rights (except Articles 20 and 21) can be suspended. The federal structure becomes unitary, and Parliament can make laws on state subjects."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "How many types of emergencies are provided in the Indian Constitution?",
+      "options": ["3", "2", "4", "5"],
+      "correctAnswer": "3",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which Article of the Constitution deals with National Emergency?",
+      "options": ["Article 352", "Article 356", "Article 360", "Article 370"],
+      "correctAnswer": "Article 352",
+      "type": "MCQ"
+    },
+    {
+      "question": "What is another name for State Emergency?",
+      "options": [
+        "President's Rule",
+        "Governor's Rule",
+        "Martial Law",
+        "Federal Control"
+      ],
+      "correctAnswer": "President's Rule",
+      "type": "MCQ"
+    },
+    {
+      "question": "How long can an emergency proclamation last without parliamentary approval?",
+      "options": ["One month", "Three months", "Six months", "One year"],
+      "correctAnswer": "One month",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which of the following is NOT a ground for declaring National Emergency?",
+      "options": [
+        "Financial instability",
+        "War",
+        "External aggression",
+        "Armed rebellion"
+      ],
+      "correctAnswer": "Financial instability",
+      "type": "MCQ"
+    },
+    {
+      "question": "During a National Emergency, all Fundamental Rights are automatically suspended.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "Financial Emergency has been imposed in India multiple times.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "State Emergency can be imposed if a state government cannot function according to constitutional provisions.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "Emergency proclamations can be extended indefinitely without parliamentary approval.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "During a National Emergency, the federal structure of India becomes more unitary.",
+      "correctAnswer": true,
+      "type": "TF"
+    }
+  ]
+}

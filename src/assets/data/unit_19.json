@@ -1,0 +1,91 @@
+{
+  "title": "Union Territories (Part VIII of the Indian Constitution)",
+  "information": [
+    {
+      "title": "Definition",
+      "description": "Union Territories (UTs) are administrative divisions directly governed by the Central Government of India. They are mentioned in Part VIII of the Constitution."
+    },
+    {
+      "title": "Administration",
+      "description": "UTs are administered by the President through an appointed administrator. The President can specify the designation of the administrator, who usually holds the title of Lieutenant Governor or Administrator."
+    },
+    {
+      "title": "Parliament's Power",
+      "description": "According to Article 239A, Parliament may create a legislature and Council of Ministers for certain UTs. Currently, Delhi, Puducherry, and Jammu & Kashmir have their own legislatures."
+    },
+    {
+      "title": "Current Union Territories",
+      "description": "As of 2023, India has 8 Union Territories: Andaman and Nicobar Islands, Chandigarh, Dadra and Nagar Haveli and Daman and Diu, Delhi, Jammu and Kashmir, Ladakh, Lakshadweep, and Puducherry."
+    },
+    {
+      "title": "Special Provisions",
+      "description": "Some UTs like Delhi and Puducherry have special provisions. For instance, Delhi, as the National Capital Territory, has a unique status with its own elected government but limited powers."
+    },
+    {
+      "title": "Creation and Changes",
+      "description": "New UTs can be created or existing ones can be changed through an act of Parliament. For example, in 2019, Jammu and Kashmir was reorganized into two UTs: Jammu and Kashmir, and Ladakh."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "Which part of the Indian Constitution deals with Union Territories?",
+      "options": ["Part VIII", "Part IX", "Part X", "Part VII"],
+      "correctAnswer": "Part VIII",
+      "type": "MCQ"
+    },
+    {
+      "question": "Who administers Union Territories?",
+      "options": [
+        "The President through an appointed administrator",
+        "The Prime Minister",
+        "The Chief Minister of the nearest state",
+        "A directly elected governor"
+      ],
+      "correctAnswer": "The President through an appointed administrator",
+      "type": "MCQ"
+    },
+    {
+      "question": "How many Union Territories does India have as of 2023?",
+      "options": ["8", "7", "9", "6"],
+      "correctAnswer": "8",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which article allows Parliament to create a legislature for certain Union Territories?",
+      "options": ["Article 239A", "Article 356", "Article 370", "Article 352"],
+      "correctAnswer": "Article 239A",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which of the following Union Territories does NOT have its own legislature?",
+      "options": ["Chandigarh", "Delhi", "Puducherry", "Jammu and Kashmir"],
+      "correctAnswer": "Chandigarh",
+      "type": "MCQ"
+    },
+    {
+      "question": "All Union Territories in India have their own elected legislatures.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The administrator of a Union Territory is always called the Lieutenant Governor.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "New Union Territories can be created through an act of Parliament.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "Delhi has the same powers as a full-fledged state of India.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "Jammu and Kashmir was reorganized into two Union Territories in 2019.",
+      "correctAnswer": true,
+      "type": "TF"
+    }
+  ]
+}

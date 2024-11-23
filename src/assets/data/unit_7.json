@@ -1,0 +1,101 @@
+{
+  "title": "Constitutional Amendment Process in India",
+  "information": [
+    {
+      "title": "Definition",
+      "description": "The amendment process is the method by which the Constitution of India can be changed. Article 368 of the Constitution deals with the powers of Parliament to amend the Constitution and its procedure."
+    },
+    {
+      "title": "Types of Amendments",
+      "description": "There are three types of amendments: 1) Simple majority, 2) Special majority, and 3) Special majority with ratification by states. The type depends on the provisions being amended."
+    },
+    {
+      "title": "Simple Majority",
+      "description": "Some provisions can be amended by a simple majority in Parliament, similar to ordinary laws. These include altering boundaries of states or changing the names of states."
+    },
+    {
+      "title": "Special Majority",
+      "description": "Most provisions of the Constitution require a special majority for amendment. This means a majority of the total membership of each House and a majority of not less than two-thirds of the members present and voting."
+    },
+    {
+      "title": "Special Majority with State Ratification",
+      "description": "Certain fundamental provisions require, in addition to the special majority, ratification by legislatures of not less than one-half of the states. This includes amendments related to federal structure."
+    },
+    {
+      "title": "Basic Structure Doctrine",
+      "description": "The Supreme Court has ruled that the basic structure of the Constitution cannot be amended. This includes principles like democracy, federalism, secularism, and judicial review."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "Which Article of the Indian Constitution deals with the amendment process?",
+      "options": ["Article 368", "Article 352", "Article 356", "Article 370"],
+      "correctAnswer": "Article 368",
+      "type": "MCQ"
+    },
+    {
+      "question": "How many types of amendments are there in the Indian Constitution?",
+      "options": ["3", "2", "4", "5"],
+      "correctAnswer": "3",
+      "type": "MCQ"
+    },
+    {
+      "question": "What kind of majority is required for most constitutional amendments?",
+      "options": [
+        "Special majority",
+        "Simple majority",
+        "Unanimous vote",
+        "Three-fourths majority"
+      ],
+      "correctAnswer": "Special majority",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which type of amendment requires ratification by state legislatures?",
+      "options": [
+        "Amendments related to federal structure",
+        "Amendments to Fundamental Rights",
+        "Amendments to Directive Principles",
+        "All amendments"
+      ],
+      "correctAnswer": "Amendments related to federal structure",
+      "type": "MCQ"
+    },
+    {
+      "question": "What is the 'Basic Structure Doctrine'?",
+      "options": [
+        "The principle that certain fundamental features of the Constitution cannot be amended",
+        "A guide for drafting new constitutions",
+        "A method for interpreting constitutional provisions",
+        "A set of rules for parliamentary procedures"
+      ],
+      "correctAnswer": "The principle that certain fundamental features of the Constitution cannot be amended",
+      "type": "MCQ"
+    },
+    {
+      "question": "All provisions of the Indian Constitution can be amended by a simple majority in Parliament.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "Special majority means a majority of the total membership of each House and a two-thirds majority of members present and voting.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "Changing the name of a state requires ratification by state legislatures.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The Basic Structure Doctrine was established by the Supreme Court of India.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "Federalism is considered part of the basic structure of the Indian Constitution.",
+      "correctAnswer": true,
+      "type": "TF"
+    }
+  ]
+}

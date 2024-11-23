@@ -1,0 +1,118 @@
+{
+  "title": "Schedules of the Indian Constitution",
+  "information": [
+    {
+      "title": "Overview",
+      "description": "The Indian Constitution originally had 8 schedules. Currently, it has 12 schedules that contain provisions related to various aspects of governance and administration."
+    },
+    {
+      "title": "First Schedule",
+      "description": "Lists the states and union territories of India and their territories."
+    },
+    {
+      "title": "Second Schedule",
+      "description": "Contains provisions relating to the emoluments, allowances, and privileges of high constitutional dignitaries."
+    },
+    {
+      "title": "Third Schedule",
+      "description": "Contains the forms of oaths or affirmations for constitutional positions."
+    },
+    {
+      "title": "Fourth Schedule",
+      "description": "Allocates seats for each state and union territory in the Rajya Sabha."
+    },
+    {
+      "title": "Fifth and Sixth Schedules",
+      "description": "Contain provisions for the administration and control of Scheduled Areas and Scheduled Tribes in states other than Assam, Meghalaya, Tripura, and Mizoram (Fifth), and in these four states (Sixth)."
+    },
+    {
+      "title": "Seventh Schedule",
+      "description": "Specifies the distribution of powers between the Union and the States (Union List, State List, and Concurrent List)."
+    },
+    {
+      "title": "Eighth Schedule",
+      "description": "Lists the 22 official languages recognized by the Constitution."
+    },
+    {
+      "title": "Ninth, Tenth, Eleventh, and Twelfth Schedules",
+      "description": "Deal with land reforms and other laws (Ninth), provisions for disqualification of MPs and MLAs on grounds of defection (Tenth), powers and responsibilities of Panchayats (Eleventh), and Municipalities (Twelfth) respectively."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "How many schedules does the Indian Constitution currently have?",
+      "options": ["12", "8", "10", "14"],
+      "correctAnswer": "12",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which schedule deals with the distribution of powers between the Union and the States?",
+      "options": [
+        "Seventh Schedule",
+        "First Schedule",
+        "Fourth Schedule",
+        "Tenth Schedule"
+      ],
+      "correctAnswer": "Seventh Schedule",
+      "type": "MCQ"
+    },
+    {
+      "question": "What does the Eighth Schedule of the Constitution contain?",
+      "options": [
+        "List of official languages",
+        "List of states and union territories",
+        "Forms of oaths",
+        "Provisions for Panchayats"
+      ],
+      "correctAnswer": "List of official languages",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which schedule contains provisions for the administration of Scheduled Areas and Scheduled Tribes in Assam, Meghalaya, Tripura, and Mizoram?",
+      "options": [
+        "Sixth Schedule",
+        "Fifth Schedule",
+        "Fourth Schedule",
+        "Third Schedule"
+      ],
+      "correctAnswer": "Sixth Schedule",
+      "type": "MCQ"
+    },
+    {
+      "question": "The Tenth Schedule of the Constitution deals with:",
+      "options": [
+        "Provisions for disqualification on grounds of defection",
+        "Land reforms",
+        "Powers of Municipalities",
+        "Allocation of Rajya Sabha seats"
+      ],
+      "correctAnswer": "Provisions for disqualification on grounds of defection",
+      "type": "MCQ"
+    },
+    {
+      "question": "The First Schedule of the Constitution lists the states and union territories of India.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The Ninth Schedule deals with powers and responsibilities of Panchayats.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The Second Schedule contains provisions relating to the emoluments and allowances of high constitutional dignitaries.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The Eleventh and Twelfth Schedules were added by the 73rd and 74th Constitutional Amendment Acts respectively.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The Third Schedule contains the forms of oaths or affirmations for constitutional positions.",
+      "correctAnswer": true,
+      "type": "TF"
+    }
+  ]
+}

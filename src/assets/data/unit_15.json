@@ -1,0 +1,101 @@
+{
+  "title": "Finance Commission and Fiscal Federalism in India",
+  "information": [
+    {
+      "title": "Finance Commission",
+      "description": "The Finance Commission is a constitutional body established under Article 280 of the Indian Constitution. It is appointed every five years to recommend the distribution of net proceeds of taxes between the Centre and the States."
+    },
+    {
+      "title": "Composition",
+      "description": "The Finance Commission consists of a Chairman and four other members appointed by the President. They hold office for the duration specified by the President in the order of appointment."
+    },
+    {
+      "title": "Functions",
+      "description": "The primary functions of the Finance Commission include recommending the distribution of taxes between the Centre and States, principles governing grants-in-aid to States, and measures to augment the Consolidated Fund of a State to supplement the resources of Panchayats and Municipalities."
+    },
+    {
+      "title": "Fiscal Federalism",
+      "description": "Fiscal federalism refers to the financial relations between the Centre and States in India. It involves the division of taxing powers and expenditure responsibilities between different levels of government."
+    },
+    {
+      "title": "Revenue Sharing",
+      "description": "The Finance Commission recommends the share of states in the central taxes. This is called the divisible pool. The 15th Finance Commission recommended 41% of the divisible pool to be transferred to States for the period 2021-26."
+    },
+    {
+      "title": "Grants-in-Aid",
+      "description": "Besides tax devolution, the Finance Commission also recommends grants-in-aid to states that need assistance. These can be general purpose grants or specific purpose grants."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "Under which Article of the Indian Constitution is the Finance Commission established?",
+      "options": ["Article 280", "Article 324", "Article 315", "Article 350"],
+      "correctAnswer": "Article 280",
+      "type": "MCQ"
+    },
+    {
+      "question": "How often is the Finance Commission appointed?",
+      "options": [
+        "Every five years",
+        "Every year",
+        "Every three years",
+        "Every ten years"
+      ],
+      "correctAnswer": "Every five years",
+      "type": "MCQ"
+    },
+    {
+      "question": "What is the primary function of the Finance Commission?",
+      "options": [
+        "To recommend distribution of taxes between Centre and States",
+        "To prepare the Union Budget",
+        "To audit government accounts",
+        "To manage the stock market"
+      ],
+      "correctAnswer": "To recommend distribution of taxes between Centre and States",
+      "type": "MCQ"
+    },
+    {
+      "question": "What percentage of the divisible pool did the 15th Finance Commission recommend to be transferred to States?",
+      "options": ["41%", "50%", "33%", "25%"],
+      "correctAnswer": "41%",
+      "type": "MCQ"
+    },
+    {
+      "question": "What does fiscal federalism refer to in the Indian context?",
+      "options": [
+        "Financial relations between the Centre and States",
+        "Federal structure of the government",
+        "Fiscal policy of the central government",
+        "Financial markets regulation"
+      ],
+      "correctAnswer": "Financial relations between the Centre and States",
+      "type": "MCQ"
+    },
+    {
+      "question": "The Finance Commission is a permanent constitutional body.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The Finance Commission recommends grants-in-aid to states.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The President of India is the Chairman of the Finance Commission.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The Finance Commission's recommendations are binding on the government.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "Fiscal federalism involves the division of taxing powers between different levels of government.",
+      "correctAnswer": true,
+      "type": "TF"
+    }
+  ]
+}

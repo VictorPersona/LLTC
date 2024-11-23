@@ -1,0 +1,119 @@
+{
+  "title": "Special Status of Scheduled Areas and Tribes in India",
+  "information": [
+    {
+      "title": "Constitutional Provisions",
+      "description": "The Constitution of India provides special provisions for the administration and control of Scheduled Areas and Scheduled Tribes under the Fifth and Sixth Schedules."
+    },
+    {
+      "title": "Fifth Schedule",
+      "description": "It deals with the administration and control of Scheduled Areas and Scheduled Tribes in any state except the four states of Assam, Meghalaya, Tripura, and Mizoram."
+    },
+    {
+      "title": "Sixth Schedule",
+      "description": "It contains provisions for the administration of tribal areas in the four northeastern states of Assam, Meghalaya, Tripura, and Mizoram."
+    },
+    {
+      "title": "Tribal Advisory Council",
+      "description": "Under the Fifth Schedule, each state with Scheduled Areas must establish a Tribal Advisory Council to advise on matters pertaining to the welfare and advancement of the Scheduled Tribes."
+    },
+    {
+      "title": "Autonomous District Councils",
+      "description": "The Sixth Schedule provides for the formation of Autonomous District Councils in tribal areas. These councils have legislative, judicial, and administrative powers."
+    },
+    {
+      "title": "Governor's Special Responsibility",
+      "description": "The Governor of a state with Scheduled Areas has special responsibility to protect the interests of the Scheduled Tribes."
+    },
+    {
+      "title": "PESA Act, 1996",
+      "description": "The Panchayats (Extension to Scheduled Areas) Act, 1996 extended the provisions of Panchayati Raj to the Scheduled Areas, giving special powers to Gram Sabhas."
+    },
+    {
+      "title": "Forest Rights Act, 2006",
+      "description": "This Act recognizes the rights of forest-dwelling tribal communities and other traditional forest dwellers to forest resources."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "Which schedule of the Constitution deals with the administration of tribal areas in Assam, Meghalaya, Tripura, and Mizoram?",
+      "options": [
+        "Sixth Schedule",
+        "Fifth Schedule",
+        "Fourth Schedule",
+        "Seventh Schedule"
+      ],
+      "correctAnswer": "Sixth Schedule",
+      "type": "MCQ"
+    },
+    {
+      "question": "What is established under the Fifth Schedule to advise on matters pertaining to the welfare of Scheduled Tribes?",
+      "options": [
+        "Tribal Advisory Council",
+        "Autonomous District Council",
+        "Gram Sabha",
+        "State Tribal Commission"
+      ],
+      "correctAnswer": "Tribal Advisory Council",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which Act extended the provisions of Panchayati Raj to the Scheduled Areas?",
+      "options": [
+        "PESA Act, 1996",
+        "Forest Rights Act, 2006",
+        "Tribal Areas Act, 1995",
+        "Scheduled Tribes Act, 1999"
+      ],
+      "correctAnswer": "PESA Act, 1996",
+      "type": "MCQ"
+    },
+    {
+      "question": "Who has special responsibility to protect the interests of Scheduled Tribes in states with Scheduled Areas?",
+      "options": [
+        "Governor",
+        "Chief Minister",
+        "President",
+        "Tribal Affairs Minister"
+      ],
+      "correctAnswer": "Governor",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which Act recognizes the rights of forest-dwelling tribal communities to forest resources?",
+      "options": [
+        "Forest Rights Act, 2006",
+        "PESA Act, 1996",
+        "Wildlife Protection Act, 1972",
+        "Indian Forest Act, 1927"
+      ],
+      "correctAnswer": "Forest Rights Act, 2006",
+      "type": "MCQ"
+    },
+    {
+      "question": "The Fifth Schedule of the Constitution applies to all states in India.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "Autonomous District Councils have legislative, judicial, and administrative powers.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The PESA Act, 1996 gives special powers to Gram Sabhas in Scheduled Areas.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The Sixth Schedule applies to tribal areas in all northeastern states of India.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The Forest Rights Act, 2006 applies only to Scheduled Tribes and not to other traditional forest dwellers.",
+      "correctAnswer": false,
+      "type": "TF"
+    }
+  ]
+}

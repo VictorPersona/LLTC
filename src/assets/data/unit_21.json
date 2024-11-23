@@ -1,0 +1,109 @@
+{
+  "title": "Separation of Powers in India",
+  "information": [
+    {
+      "title": "Constitutional Basis",
+      "description": "The Indian Constitution does not explicitly mention the doctrine of separation of powers. However, it is implicit in the structure of the Constitution, which divides the government into three branches: Legislature, Executive, and Judiciary."
+    },
+    {
+      "title": "Legislature",
+      "description": "The Parliament (Lok Sabha and Rajya Sabha) at the central level and State Legislatures at the state level are responsible for making laws. Articles 245 to 255 deal with legislative powers."
+    },
+    {
+      "title": "Executive",
+      "description": "The President, aided by the Council of Ministers headed by the Prime Minister, forms the Union Executive. At the state level, the Governor and the Council of Ministers headed by the Chief Minister form the State Executive."
+    },
+    {
+      "title": "Judiciary",
+      "description": "The Supreme Court, High Courts, and subordinate courts form the judiciary. Articles 124 to 147 deal with the organization and jurisdiction of the Supreme Court."
+    },
+    {
+      "title": "Checks and Balances",
+      "description": "While there is separation of powers, the Indian system also incorporates checks and balances. For example, the judiciary can strike down laws made by the legislature if they violate the Constitution."
+    },
+    {
+      "title": "Parliamentary System",
+      "description": "India follows a parliamentary system where there is fusion of legislative and executive powers. The executive is responsible to the legislature."
+    },
+    {
+      "title": "Judicial Independence",
+      "description": "The Constitution ensures the independence of the judiciary through various provisions like security of tenure for judges, separation of judiciary from executive (Article 50), etc."
+    },
+    {
+      "title": "Judicial Interpretation",
+      "description": "In the Kesavananda Bharati case (1973), the Supreme Court held that separation of powers is a part of the basic structure of the Constitution and cannot be taken away even by a constitutional amendment."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "Which of the following is NOT a branch of the Indian government as per the separation of powers?",
+      "options": ["Media", "Legislature", "Executive", "Judiciary"],
+      "correctAnswer": "Media",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which Articles of the Constitution deal with the organization and jurisdiction of the Supreme Court?",
+      "options": [
+        "Articles 124 to 147",
+        "Articles 245 to 255",
+        "Articles 52 to 78",
+        "Articles 153 to 167"
+      ],
+      "correctAnswer": "Articles 124 to 147",
+      "type": "MCQ"
+    },
+    {
+      "question": "In which case did the Supreme Court hold that separation of powers is a part of the basic structure of the Constitution?",
+      "options": [
+        "Kesavananda Bharati case",
+        "Golaknath case",
+        "Minerva Mills case",
+        "S.R. Bommai case"
+      ],
+      "correctAnswer": "Kesavananda Bharati case",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which Article of the Constitution provides for separation of judiciary from executive?",
+      "options": ["Article 50", "Article 51", "Article 52", "Article 53"],
+      "correctAnswer": "Article 50",
+      "type": "MCQ"
+    },
+    {
+      "question": "In India's parliamentary system, which of the following is true?",
+      "options": [
+        "The executive is responsible to the legislature",
+        "The legislature is responsible to the executive",
+        "The judiciary is responsible to the executive",
+        "The executive is completely separate from the legislature"
+      ],
+      "correctAnswer": "The executive is responsible to the legislature",
+      "type": "MCQ"
+    },
+    {
+      "question": "The Indian Constitution explicitly mentions the doctrine of separation of powers.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The President of India is part of both the legislature and the executive.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The judiciary in India has the power to strike down laws made by the legislature.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "India follows a presidential system of government.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The doctrine of separation of powers in India implies a strict separation with no overlap between the three branches of government.",
+      "correctAnswer": false,
+      "type": "TF"
+    }
+  ]
+}

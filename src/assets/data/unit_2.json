@@ -1,0 +1,115 @@
+{
+  "title": "Directive Principles of State Policy",
+  "information": [
+    {
+      "title": "Definition",
+      "description": "Directive Principles of State Policy are guidelines or principles given to the central and state governments of India, to be kept in mind while framing laws and policies. These principles aim to ensure social and economic justice for all citizens."
+    },
+    {
+      "title": "Nature",
+      "description": "Unlike Fundamental Rights, Directive Principles are not enforceable by law. However, they are considered fundamental in the governance of the country and it is the duty of the State to apply these principles in making laws."
+    },
+    {
+      "title": "Social Justice",
+      "description": "Several Directive Principles aim to promote social justice. These include promoting the welfare of the people, securing a social order for the promotion of welfare of the people, and minimizing inequalities in income, status, facilities, and opportunities."
+    },
+    {
+      "title": "Economic Justice",
+      "description": "Directive Principles also focus on economic justice. They direct the state to secure the right to work, to education, and to public assistance in cases of unemployment, old age, sickness, and disablement. They also aim to secure just and humane conditions of work."
+    },
+    {
+      "title": "Equal Justice",
+      "description": "The Directive Principles emphasize equal justice and free legal aid. They direct the State to promote equal justice and to provide free legal aid to ensure that opportunities for securing justice are not denied to any citizen by reason of economic or other disabilities."
+    },
+    {
+      "title": "International Peace",
+      "description": "The Directive Principles also guide India's foreign policy. They direct the State to promote international peace and security, maintain just and honorable relations between nations, foster respect for international law and treaty obligations, and encourage settlement of international disputes by arbitration."
+    },
+    {
+      "title": "Uniform Civil Code",
+      "description": "One of the Directive Principles is to secure for citizens a uniform civil code throughout the territory of India. This aims to replace personal laws based on the scriptures and customs of each major religious community in India with a common set of rules governing every citizen."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "What are Directive Principles of State Policy?",
+      "options": [
+        "Guidelines for the government in framing laws and policies",
+        "Fundamental Rights of citizens",
+        "Rules for conducting elections",
+        "International treaties"
+      ],
+      "correctAnswer": "Guidelines for the government in framing laws and policies",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which of the following is a characteristic of Directive Principles?",
+      "options": [
+        "They are not enforceable by law",
+        "They are part of Fundamental Rights",
+        "They can be enforced in courts",
+        "They are binding on the government"
+      ],
+      "correctAnswer": "They are not enforceable by law",
+      "type": "MCQ"
+    },
+    {
+      "question": "What aspect of justice do Directive Principles aim to promote?",
+      "options": [
+        "Social and economic justice",
+        "Only criminal justice",
+        "Only civil justice",
+        "Religious justice"
+      ],
+      "correctAnswer": "Social and economic justice",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which of the following is a Directive Principle related to economic justice?",
+      "options": [
+        "Right to work",
+        "Right to property",
+        "Right to freedom of speech",
+        "Right to constitutional remedies"
+      ],
+      "correctAnswer": "Right to work",
+      "type": "MCQ"
+    },
+    {
+      "question": "What does the Directive Principle on Uniform Civil Code aim to achieve?",
+      "options": [
+        "A common set of rules governing every citizen",
+        "Separate laws for different religious communities",
+        "Abolition of all civil laws",
+        "Implementation of religious laws for all"
+      ],
+      "correctAnswer": "A common set of rules governing every citizen",
+      "type": "MCQ"
+    },
+    {
+      "question": "Directive Principles of State Policy are enforceable by law.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "Directive Principles aim to ensure social and economic justice for all citizens.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The Directive Principles include guidelines for promoting international peace and security.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "Directive Principles direct the State to provide free legal aid to ensure equal justice.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The Uniform Civil Code is already implemented across India as per the Directive Principles.",
+      "correctAnswer": false,
+      "type": "TF"
+    }
+  ]
+}

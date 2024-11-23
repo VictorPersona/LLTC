@@ -1,0 +1,115 @@
+{
+  "title": "Fundamental Rights",
+  "information": [
+    {
+      "title": "Definition",
+      "description": "Fundamental Rights are basic human rights guaranteed to all citizens by the Constitution. They are essential for the overall development of individuals and are enforceable by law."
+    },
+    {
+      "title": "Right to Equality",
+      "description": "This right ensures that all citizens are equal before the law. It prohibits discrimination based on religion, race, caste, sex, or place of birth. It also abolishes untouchability and provides for equal opportunities in public employment."
+    },
+    {
+      "title": "Right to Freedom",
+      "description": "The Right to Freedom includes several freedoms such as freedom of speech and expression, assembly, association, movement, and the right to practice any profession. However, reasonable restrictions can be imposed on these freedoms for the interest of public order, security, and morality."
+    },
+    {
+      "title": "Right Against Exploitation",
+      "description": "This right prohibits all forms of forced labor, child labor, and human trafficking. It protects citizens from exploitation and ensures human dignity."
+    },
+    {
+      "title": "Right to Freedom of Religion",
+      "description": "This right allows citizens to practice, profess, and propagate any religion of their choice. It also prohibits the state from imposing any particular religion and ensures secularism."
+    },
+    {
+      "title": "Cultural and Educational Rights",
+      "description": "These rights protect the interests of minorities. They allow minorities to preserve their language, script, and culture. Minorities also have the right to establish and administer their own educational institutions."
+    },
+    {
+      "title": "Right to Constitutional Remedies",
+      "description": "This right allows citizens to approach the courts if their fundamental rights are violated. It ensures that people can seek justice if their rights are infringed upon."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "What are Fundamental Rights?",
+      "options": [
+        "Basic human rights guaranteed by the Constitution",
+        "Laws made by the government",
+        "Rules for public behavior",
+        "Guidelines for businesses"
+      ],
+      "correctAnswer": "Basic human rights guaranteed by the Constitution",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which of the following is included in the Right to Freedom?",
+      "options": [
+        "Freedom of speech and expression",
+        "Right to property",
+        "Right to education",
+        "Right to privacy"
+      ],
+      "correctAnswer": "Freedom of speech and expression",
+      "type": "MCQ"
+    },
+    {
+      "question": "What does the Right Against Exploitation prohibit?",
+      "options": [
+        "Forced labor",
+        "Freedom of religion",
+        "Right to education",
+        "Freedom of movement"
+      ],
+      "correctAnswer": "Forced labor",
+      "type": "MCQ"
+    },
+    {
+      "question": "What does the Right to Freedom of Religion ensure?",
+      "options": [
+        "The right to practice any religion",
+        "The imposition of a state religion",
+        "Prohibition of all religions",
+        "Mandatory religious education"
+      ],
+      "correctAnswer": "The right to practice any religion",
+      "type": "MCQ"
+    },
+    {
+      "question": "What do Cultural and Educational Rights protect?",
+      "options": [
+        "Interests of minorities",
+        "Government policies",
+        "Economic interests",
+        "Environmental concerns"
+      ],
+      "correctAnswer": "Interests of minorities",
+      "type": "MCQ"
+    },
+    {
+      "question": "Fundamental Rights are enforceable by law.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The Right to Equality allows discrimination based on religion.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The Right to Freedom can have reasonable restrictions imposed on it.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The Right to Constitutional Remedies allows citizens to approach courts if their fundamental rights are violated.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "Cultural and Educational Rights allow minorities to establish their own educational institutions.",
+      "correctAnswer": true,
+      "type": "TF"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "title": "Writs under Article 32 and 226 of the Indian Constitution",
+  "information": [
+    {
+      "title": "Constitutional Provisions",
+      "description": "Article 32 empowers the Supreme Court to issue writs for the enforcement of Fundamental Rights. Article 226 gives similar powers to High Courts, but for a broader range of purposes including the enforcement of legal rights."
+    },
+    {
+      "title": "Types of Writs",
+      "description": "There are five types of writs: Habeas Corpus, Mandamus, Prohibition, Certiorari, and Quo Warranto. Each serves a specific purpose in protecting rights and ensuring lawful governance."
+    },
+    {
+      "title": "Habeas Corpus",
+      "description": "This writ is used to produce a person who has been detained, before the court and to release him if the detention is found to be illegal."
+    },
+    {
+      "title": "Mandamus",
+      "description": "It is issued to compel a public official or a public body to perform their legal duty."
+    },
+    {
+      "title": "Prohibition",
+      "description": "This writ is issued to prohibit a lower court or tribunal from proceeding with a case which it has no jurisdiction to entertain."
+    },
+    {
+      "title": "Certiorari",
+      "description": "It is issued to quash the order already passed by an inferior court, tribunal or quasi-judicial authority."
+    },
+    {
+      "title": "Quo Warranto",
+      "description": "This writ is issued to inquire into the legality of claim of a person to a public office."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "Which Article empowers the Supreme Court to issue writs for the enforcement of Fundamental Rights?",
+      "options": ["Article 32", "Article 226", "Article 14", "Article 21"],
+      "correctAnswer": "Article 32",
+      "type": "MCQ"
+    },
+    {
+      "question": "How many types of writs are there under the Indian Constitution?",
+      "options": ["5", "3", "7", "4"],
+      "correctAnswer": "5",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which writ is used to produce a detained person before the court?",
+      "options": ["Habeas Corpus", "Mandamus", "Certiorari", "Quo Warranto"],
+      "correctAnswer": "Habeas Corpus",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which writ is issued to compel a public official to perform their legal duty?",
+      "options": ["Mandamus", "Prohibition", "Certiorari", "Quo Warranto"],
+      "correctAnswer": "Mandamus",
+      "type": "MCQ"
+    },
+    {
+      "question": "What is the purpose of the writ of Quo Warranto?",
+      "options": [
+        "To inquire into the legality of claim of a person to a public office",
+        "To release an illegally detained person",
+        "To compel performance of public duty",
+        "To quash the order of a lower court"
+      ],
+      "correctAnswer": "To inquire into the legality of claim of a person to a public office",
+      "type": "MCQ"
+    },
+    {
+      "question": "High Courts can issue writs only for the enforcement of Fundamental Rights.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The writ of Prohibition is issued to prohibit a lower court from proceeding with a case beyond its jurisdiction.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "Certiorari can be issued to quash an order already passed by an inferior court or tribunal.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The power to issue writs is exclusive to the Supreme Court.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "Habeas Corpus literally means 'to have the body of'.",
+      "correctAnswer": true,
+      "type": "TF"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "title": "Secularism in India",
+  "information": [
+    {
+      "title": "Definition and Concept",
+      "description": "Secularism refers to the principle of separating religion from the state to ensure that all religions are treated equally. In the Indian context, secularism ensures that the state does not favor or discriminate against any religion."
+    },
+    {
+      "title": "Constitutional Provisions",
+      "description": "The word 'secular' was added to the Preamble of the Constitution by the 42nd Amendment Act, 1976. Articles 25 to 28 guarantee freedom of religion and religious practices."
+    },
+    {
+      "title": "Article 25",
+      "description": "This article guarantees all citizens the right to freedom of conscience and the right to profess, practice, and propagate religion, subject to public order, morality, and health."
+    },
+    {
+      "title": "Article 26",
+      "description": "This article gives every religious denomination or any of its sections the right to manage its own affairs in matters of religion."
+    },
+    {
+      "title": "Article 27",
+      "description": "This article prohibits the state from compelling any citizen to pay taxes for the promotion or maintenance of any particular religion."
+    },
+    {
+      "title": "Article 28",
+      "description": "This article prohibits religious instruction in educational institutions wholly maintained by state funds."
+    },
+    {
+      "title": "Challenges to Secularism",
+      "description": "Challenges include communalism, politicization of religion, lack of uniform civil code, and incidents of religious intolerance that threaten the secular fabric of the nation."
+    },
+    {
+      "title": "Significance of Secularism",
+      "description": "Secularism ensures the unity and integrity of a diverse country like India. It provides a framework for peaceful coexistence and upholds the democratic ideals of justice, equality, and liberty."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "Which amendment added the word 'secular' to the Preamble of the Indian Constitution?",
+      "options": [
+        "42nd Amendment",
+        "44th Amendment",
+        "40th Amendment",
+        "39th Amendment"
+      ],
+      "correctAnswer": "42nd Amendment",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which Article guarantees the right to freedom of religion in India?",
+      "options": ["Article 25", "Article 24", "Article 26", "Article 28"],
+      "correctAnswer": "Article 25",
+      "type": "MCQ"
+    },
+    {
+      "question": "What does Article 27 of the Indian Constitution prohibit?",
+      "options": [
+        "Compulsion to pay taxes for religious purposes",
+        "Religious instruction in state-funded institutions",
+        "Restriction of religious practices",
+        "Formation of religious associations"
+      ],
+      "correctAnswer": "Compulsion to pay taxes for religious purposes",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which article prohibits religious instruction in state-funded educational institutions?",
+      "options": ["Article 28", "Article 25", "Article 27", "Article 26"],
+      "correctAnswer": "Article 28",
+      "type": "MCQ"
+    },
+    {
+      "question": "Secularism in India means:",
+      "options": [
+        "The state has its own religion",
+        "All religions are treated equally by the state",
+        "Religion is banned in the country",
+        "Only major religions are recognized"
+      ],
+      "correctAnswer": "All religions are treated equally by the state",
+      "type": "MCQ"
+    },
+    {
+      "question": "The word 'secular' was part of the original Constitution of India.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "Article 26 gives religious denominations the right to manage their own religious affairs.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "Religious instruction is allowed in educational institutions wholly maintained by the state.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "Secularism promotes the idea of a state religion.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "Freedom of religion in India is subject to public order, morality, and health.",
+      "correctAnswer": true,
+      "type": "TF"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "title": "National and State Planning in India",
+  "information": [
+    {
+      "title": "Historical Context",
+      "description": "India adopted a planned economy model post-independence, with the establishment of the Planning Commission in 1950 to formulate Five-Year Plans."
+    },
+    {
+      "title": "NITI Aayog",
+      "description": "In 2015, the Planning Commission was replaced by NITI (National Institution for Transforming India) Aayog, which serves as a think tank and fosters cooperative federalism."
+    },
+    {
+      "title": "Functions of NITI Aayog",
+      "description": "NITI Aayog designs strategic and long-term policies and programmes, provides relevant technical advice to Centre and States, and serves as a platform for resolution of inter-sectoral and inter-departmental issues."
+    },
+    {
+      "title": "State Planning",
+      "description": "States have their own planning boards or departments that work in coordination with NITI Aayog to formulate state-specific development plans."
+    },
+    {
+      "title": "District Planning",
+      "description": "The 74th Constitutional Amendment Act, 1992 mandated the creation of District Planning Committees for consolidating plans prepared by Panchayats and Municipalities."
+    },
+    {
+      "title": "Annual Plans",
+      "description": "With the discontinuation of Five-Year Plans after the 12th Plan (2012-17), the focus has shifted to annual plans and three-year action plans."
+    },
+    {
+      "title": "15-Year Vision Document",
+      "description": "NITI Aayog is tasked with preparing a 15-year vision document in tandem with global Sustainable Development Goals and India's unique needs."
+    },
+    {
+      "title": "Sectoral Approach",
+      "description": "Planning in India follows a sectoral approach, focusing on key areas like agriculture, industry, infrastructure, social services, etc."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "Which body replaced the Planning Commission in 2015?",
+      "options": [
+        "NITI Aayog",
+        "Finance Commission",
+        "Economic Advisory Council",
+        "National Development Council"
+      ],
+      "correctAnswer": "NITI Aayog",
+      "type": "MCQ"
+    },
+    {
+      "question": "What does NITI in NITI Aayog stand for?",
+      "options": [
+        "National Institution for Transforming India",
+        "New India Transformation Initiative",
+        "National Institute of Technology and Innovation",
+        "National Integration Through Implementation"
+      ],
+      "correctAnswer": "National Institution for Transforming India",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which Constitutional Amendment mandated the creation of District Planning Committees?",
+      "options": [
+        "74th Amendment",
+        "73rd Amendment",
+        "42nd Amendment",
+        "44th Amendment"
+      ],
+      "correctAnswer": "74th Amendment",
+      "type": "MCQ"
+    },
+    {
+      "question": "After the discontinuation of Five-Year Plans, what has become the focus of planning?",
+      "options": [
+        "Annual plans and three-year action plans",
+        "Ten-year plans",
+        "Quarterly plans",
+        "Twenty-year vision documents"
+      ],
+      "correctAnswer": "Annual plans and three-year action plans",
+      "type": "MCQ"
+    },
+    {
+      "question": "What is the duration of the vision document that NITI Aayog is tasked with preparing?",
+      "options": ["15 years", "5 years", "10 years", "20 years"],
+      "correctAnswer": "15 years",
+      "type": "MCQ"
+    },
+    {
+      "question": "The Planning Commission was established in 1950.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "NITI Aayog follows a top-down approach in planning, without involving states.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "India still follows the Five-Year Plan model of development planning.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "States in India have their own planning boards or departments.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The planning process in India focuses only on economic growth, not on social development.",
+      "correctAnswer": false,
+      "type": "TF"
+    }
+  ]
+}

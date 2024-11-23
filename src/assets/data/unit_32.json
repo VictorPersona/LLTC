@@ -1,0 +1,114 @@
+{
+  "title": "Anti-Defection Law in India",
+  "information": [
+    {
+      "title": "Introduction",
+      "description": "The Anti-Defection Law was enacted in 1985 through the 52nd Amendment to the Constitution, adding the Tenth Schedule. It aims to combat 'the evil of political defections'."
+    },
+    {
+      "title": "Grounds for Disqualification",
+      "description": "A member can be disqualified if they voluntarily give up party membership, vote against party directions, or abstain from voting contrary to party instructions (unless condoned within 15 days)."
+    },
+    {
+      "title": "Exceptions",
+      "description": "The law allows a party to merge with or into another party provided that at least two-thirds of its legislators are in favor of the merger. In such a scenario, neither the members who've chosen to merge, nor the ones who stay with the original party will face disqualification."
+    },
+    {
+      "title": "Speaker's/Chairman's Role",
+      "description": "The decision on questions of disqualification on ground of defection is referred to the Chairman or the Speaker of the House, and their decision is final."
+    },
+    {
+      "title": "Judicial Review",
+      "description": "The Supreme Court has held that the decision of the Speaker/Chairman is subject to judicial review, though the scope of such review is limited."
+    },
+    {
+      "title": "Time Limit",
+      "description": "The Supreme Court in 2020 ruled that Speakers should decide on disqualification petitions within a reasonable period, generally considered to be three months."
+    },
+    {
+      "title": "Criticism",
+      "description": "The law has been criticized for potentially curtailing the freedom of speech of legislators and for giving too much power to party leaders."
+    },
+    {
+      "title": "91st Amendment Act, 2003",
+      "description": "This amendment strengthened the anti-defection law by deleting an exception provision which allowed splits if 1/3rd of legislators of a party defected."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "Through which Constitutional Amendment was the Anti-Defection Law enacted?",
+      "options": [
+        "52nd Amendment",
+        "42nd Amendment",
+        "44th Amendment",
+        "91st Amendment"
+      ],
+      "correctAnswer": "52nd Amendment",
+      "type": "MCQ"
+    },
+    {
+      "question": "In which Schedule of the Constitution is the Anti-Defection Law contained?",
+      "options": [
+        "Tenth Schedule",
+        "Ninth Schedule",
+        "Eighth Schedule",
+        "Seventh Schedule"
+      ],
+      "correctAnswer": "Tenth Schedule",
+      "type": "MCQ"
+    },
+    {
+      "question": "Who has the final say in deciding questions of disqualification on grounds of defection?",
+      "options": [
+        "Speaker/Chairman of the House",
+        "President",
+        "Supreme Court",
+        "Election Commission"
+      ],
+      "correctAnswer": "Speaker/Chairman of the House",
+      "type": "MCQ"
+    },
+    {
+      "question": "What is the general time limit set by the Supreme Court for Speakers to decide on disqualification petitions?",
+      "options": ["Three months", "Six months", "One year", "No time limit"],
+      "correctAnswer": "Three months",
+      "type": "MCQ"
+    },
+    {
+      "question": "What did the 91st Amendment Act, 2003 do with regard to the Anti-Defection Law?",
+      "options": [
+        "Deleted the provision allowing splits if 1/3rd of legislators defected",
+        "Introduced the law",
+        "Removed the law entirely",
+        "Increased the number of legislators required for a valid merger"
+      ],
+      "correctAnswer": "Deleted the provision allowing splits if 1/3rd of legislators defected",
+      "type": "MCQ"
+    },
+    {
+      "question": "The Anti-Defection Law allows a party to merge with another if at least two-thirds of its legislators are in favor.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The decision of the Speaker/Chairman on disqualification is not subject to judicial review.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "A member can be disqualified if they vote against party directions.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The Anti-Defection Law was introduced to encourage freedom of speech among legislators.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The Anti-Defection Law applies only to the members of Lok Sabha and not Rajya Sabha.",
+      "correctAnswer": false,
+      "type": "TF"
+    }
+  ]
+}

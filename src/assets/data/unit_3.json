@@ -1,0 +1,107 @@
+{
+  "title": "Preamble of the Indian Constitution",
+  "information": [
+    {
+      "title": "Definition",
+      "description": "The Preamble is an introductory statement in the Constitution of India, stating the guiding purpose and principles of the document."
+    },
+    {
+      "title": "Key Words",
+      "description": "The Preamble declares India to be a Sovereign, Socialist, Secular, Democratic Republic. It also promises justice, liberty, equality, and fraternity to all citizens."
+    },
+    {
+      "title": "We, the People",
+      "description": "The Preamble begins with 'We, the People of India', emphasizing that the Constitution derives its authority from the people of India."
+    },
+    {
+      "title": "Date of Adoption",
+      "description": "The Preamble states that the people of India adopted and enacted the Constitution on 26th November 1949."
+    },
+    {
+      "title": "Amendments",
+      "description": "The Preamble has been amended once by the 42nd Constitutional Amendment Act, 1976, which added the words 'Socialist', 'Secular', and 'Integrity' to the original version."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "What does the Preamble declare India to be?",
+      "options": [
+        "Sovereign, Socialist, Secular, Democratic Republic",
+        "Federal, Parliamentary Democracy",
+        "Unitary, Presidential System",
+        "Confederation of States"
+      ],
+      "correctAnswer": "Sovereign, Socialist, Secular, Democratic Republic",
+      "type": "MCQ"
+    },
+    {
+      "question": "With which phrase does the Preamble of the Indian Constitution begin?",
+      "options": [
+        "We, the People of India",
+        "In the name of God",
+        "The Government of India",
+        "The Republic of India"
+      ],
+      "correctAnswer": "We, the People of India",
+      "type": "MCQ"
+    },
+    {
+      "question": "When was the Constitution of India adopted according to the Preamble?",
+      "options": [
+        "26th November 1949",
+        "15th August 1947",
+        "26th January 1950",
+        "2nd October 1869"
+      ],
+      "correctAnswer": "26th November 1949",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which amendment added the words 'Socialist' and 'Secular' to the Preamble?",
+      "options": [
+        "42nd Amendment",
+        "44th Amendment",
+        "73rd Amendment",
+        "86th Amendment"
+      ],
+      "correctAnswer": "42nd Amendment",
+      "type": "MCQ"
+    },
+    {
+      "question": "What does the Preamble promise to all citizens?",
+      "options": [
+        "Justice, liberty, equality, and fraternity",
+        "Food, clothing, and shelter",
+        "Education, health, and employment",
+        "Peace, progress, and prosperity"
+      ],
+      "correctAnswer": "Justice, liberty, equality, and fraternity",
+      "type": "MCQ"
+    },
+    {
+      "question": "The Preamble is an introductory statement in the Constitution of India.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The Preamble has never been amended since the adoption of the Constitution.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The Preamble declares India to be a Sovereign nation.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The word 'Integrity' was part of the original Preamble.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The Preamble emphasizes that the Constitution derives its authority from the people of India.",
+      "correctAnswer": true,
+      "type": "TF"
+    }
+  ]
+}

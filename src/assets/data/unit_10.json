@@ -1,0 +1,106 @@
+{
+  "title": "Panchayati Raj and Local Governance in India",
+  "information": [
+    {
+      "title": "Definition",
+      "description": "Panchayati Raj is a system of local self-governance in India, particularly in rural areas. It aims to ensure greater participation of people in local governance and more effective implementation of rural development programmes."
+    },
+    {
+      "title": "Constitutional Basis",
+      "description": "The 73rd Constitutional Amendment Act, 1992, gave constitutional status to Panchayati Raj institutions. It added Part IX to the Constitution, titled 'The Panchayats'."
+    },
+    {
+      "title": "Three-Tier System",
+      "description": "Panchayati Raj typically has a three-tier structure: Gram Panchayat at the village level, Panchayat Samiti at the block level, and Zila Parishad at the district level."
+    },
+    {
+      "title": "Urban Local Bodies",
+      "description": "The 74th Constitutional Amendment Act, 1992, provides for urban local bodies. These include Municipal Corporations, Municipal Councils, and Nagar Panchayats, depending on the size of the urban area."
+    },
+    {
+      "title": "Elections and Reservations",
+      "description": "Regular elections to local bodies are mandated. One-third of the seats (including those for chairpersons) are reserved for women. Reservations are also provided for Scheduled Castes and Scheduled Tribes."
+    },
+    {
+      "title": "Functions",
+      "description": "Local bodies are responsible for various functions including sanitation, public health, street lighting, and maintenance of community assets. The specific functions can vary by state."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "What is the main aim of the Panchayati Raj system?",
+      "options": [
+        "To ensure greater participation of people in local governance",
+        "To centralize all governance",
+        "To reduce the power of state governments",
+        "To increase foreign investment"
+      ],
+      "correctAnswer": "To ensure greater participation of people in local governance",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which Constitutional Amendment Act gave constitutional status to Panchayati Raj institutions?",
+      "options": [
+        "73rd Amendment Act",
+        "74th Amendment Act",
+        "42nd Amendment Act",
+        "44th Amendment Act"
+      ],
+      "correctAnswer": "73rd Amendment Act",
+      "type": "MCQ"
+    },
+    {
+      "question": "What are the three tiers of the Panchayati Raj system?",
+      "options": [
+        "Gram Panchayat, Panchayat Samiti, Zila Parishad",
+        "Village Council, District Council, State Council",
+        "Gram Sabha, Nagar Palika, Municipal Corporation",
+        "Block Panchayat, Taluka Panchayat, District Panchayat"
+      ],
+      "correctAnswer": "Gram Panchayat, Panchayat Samiti, Zila Parishad",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which Amendment Act provides for urban local bodies?",
+      "options": [
+        "74th Amendment Act",
+        "73rd Amendment Act",
+        "42nd Amendment Act",
+        "44th Amendment Act"
+      ],
+      "correctAnswer": "74th Amendment Act",
+      "type": "MCQ"
+    },
+    {
+      "question": "What percentage of seats are reserved for women in local bodies?",
+      "options": ["One-third", "One-fourth", "Half", "One-fifth"],
+      "correctAnswer": "One-third",
+      "type": "MCQ"
+    },
+    {
+      "question": "The Panchayati Raj system is primarily focused on urban governance.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "Regular elections to local bodies are mandated by the Constitution.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "Municipal Corporations are a type of rural local body.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The functions of local bodies are uniform across all states in India.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "Reservations in local bodies are provided for Scheduled Castes and Scheduled Tribes.",
+      "correctAnswer": true,
+      "type": "TF"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "title": "Union and State Executive",
+  "information": [
+    {
+      "title": "Union Executive",
+      "description": "The Union Executive consists of the President (Head of State), Vice-President, and Council of Ministers headed by the Prime Minister. The President is elected indirectly by an electoral college."
+    },
+    {
+      "title": "Powers of the President",
+      "description": "The President of India has executive, legislative, judicial, financial, and emergency powers. However, the President exercises these powers on the advice of the Council of Ministers."
+    },
+    {
+      "title": "Prime Minister",
+      "description": "The Prime Minister is the head of the government and the real executive authority. They are appointed by the President and must command the support of the majority in the Lok Sabha."
+    },
+    {
+      "title": "Council of Ministers",
+      "description": "The Council of Ministers, headed by the Prime Minister, aids and advises the President in exercising his functions. The Council is collectively responsible to the Lok Sabha."
+    },
+    {
+      "title": "State Executive",
+      "description": "The State Executive consists of the Governor (appointed by the President), the Chief Minister, and the Council of Ministers. The structure at the state level is similar to that at the Union level."
+    },
+    {
+      "title": "Chief Minister",
+      "description": "The Chief Minister is the real executive head of the state government. They are appointed by the Governor and must command the support of the majority in the State Legislative Assembly."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "Who is the head of the Union Executive in India?",
+      "options": [
+        "President",
+        "Prime Minister",
+        "Chief Justice",
+        "Speaker of Lok Sabha"
+      ],
+      "correctAnswer": "President",
+      "type": "MCQ"
+    },
+    {
+      "question": "Who is considered the real executive authority at the Union level?",
+      "options": [
+        "Prime Minister",
+        "President",
+        "Vice-President",
+        "Chief Justice"
+      ],
+      "correctAnswer": "Prime Minister",
+      "type": "MCQ"
+    },
+    {
+      "question": "How is the President of India elected?",
+      "options": [
+        "Indirectly by an electoral college",
+        "Directly by all citizens",
+        "By the Parliament",
+        "By the Supreme Court"
+      ],
+      "correctAnswer": "Indirectly by an electoral college",
+      "type": "MCQ"
+    },
+    {
+      "question": "Who appoints the Governor of a state?",
+      "options": [
+        "President",
+        "Prime Minister",
+        "Chief Minister",
+        "State Legislature"
+      ],
+      "correctAnswer": "President",
+      "type": "MCQ"
+    },
+    {
+      "question": "To whom is the Council of Ministers collectively responsible?",
+      "options": ["Lok Sabha", "President", "Supreme Court", "Rajya Sabha"],
+      "correctAnswer": "Lok Sabha",
+      "type": "MCQ"
+    },
+    {
+      "question": "The President of India exercises powers on the advice of the Council of Ministers.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The Prime Minister must command the support of the majority in the Rajya Sabha.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The structure of the State Executive is similar to that of the Union Executive.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The Chief Minister is appointed by the President of India.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "The Governor is the real executive head of the state government.",
+      "correctAnswer": false,
+      "type": "TF"
+    }
+  ]
+}

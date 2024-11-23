@@ -1,0 +1,99 @@
+{
+  "title": "Freedom of Trade, Commerce, and Intercourse in India (Part XIII of the Constitution)",
+  "information": [
+    {
+      "title": "Constitutional Provisions",
+      "description": "Part XIII of the Indian Constitution (Articles 301-307) deals with the freedom of trade, commerce, and intercourse within the territory of India."
+    },
+    {
+      "title": "Freedom of Trade (Article 301)",
+      "description": "Article 301 declares that trade, commerce, and intercourse throughout the territory of India shall be free. This ensures economic unity and common market across the country."
+    },
+    {
+      "title": "Power of Parliament (Article 302)",
+      "description": "Parliament can impose restrictions on the freedom of trade, commerce, and intercourse between one state and another, or within any part of the territory of India, in public interest."
+    },
+    {
+      "title": "State's Power (Article 304)",
+      "description": "States can impose reasonable restrictions on the freedom of trade, commerce, and intercourse with other states for public interest. However, a bill for this purpose needs the previous sanction of the President."
+    },
+    {
+      "title": "Discriminatory Taxes (Article 304(a))",
+      "description": "States cannot impose any tax discriminating between goods imported from other states and similar goods manufactured or produced within the state."
+    },
+    {
+      "title": "Restrictions on Trade (Article 304(b))",
+      "description": "States can impose reasonable restrictions on the freedom of trade, commerce, or intercourse with or within that state in public interest."
+    },
+    {
+      "title": "Saving of Existing Laws (Article 305)",
+      "description": "Existing laws and laws providing for state monopolies are saved from the operation of provisions of Article 301."
+    },
+    {
+      "title": "Power of President (Article 307)",
+      "description": "The President may appoint an authority to carry out the purposes of Articles 301, 302, 303, and 304."
+    }
+  ],
+  "quizQuestions": [
+    {
+      "question": "Which part of the Indian Constitution deals with the freedom of trade, commerce, and intercourse?",
+      "options": ["Part XIII", "Part XII", "Part XIV", "Part XI"],
+      "correctAnswer": "Part XIII",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which Article declares that trade, commerce, and intercourse throughout the territory of India shall be free?",
+      "options": ["Article 301", "Article 302", "Article 304", "Article 307"],
+      "correctAnswer": "Article 301",
+      "type": "MCQ"
+    },
+    {
+      "question": "Under which Article can Parliament impose restrictions on the freedom of trade and commerce?",
+      "options": ["Article 302", "Article 301", "Article 304", "Article 305"],
+      "correctAnswer": "Article 302",
+      "type": "MCQ"
+    },
+    {
+      "question": "Which Article allows states to impose reasonable restrictions on trade and commerce?",
+      "options": ["Article 304", "Article 302", "Article 301", "Article 307"],
+      "correctAnswer": "Article 304",
+      "type": "MCQ"
+    },
+    {
+      "question": "What does Article 304(a) prohibit?",
+      "options": [
+        "Discriminatory taxes between goods imported from other states and similar goods produced within the state",
+        "All inter-state trade",
+        "State monopolies",
+        "Freedom of trade within a state"
+      ],
+      "correctAnswer": "Discriminatory taxes between goods imported from other states and similar goods produced within the state",
+      "type": "MCQ"
+    },
+    {
+      "question": "States can impose restrictions on trade and commerce without any conditions.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "Article 305 saves existing laws and laws providing for state monopolies from the operation of Article 301.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "The President can appoint an authority to carry out the purposes of Articles 301 to 304.",
+      "correctAnswer": true,
+      "type": "TF"
+    },
+    {
+      "question": "Parliament's power to impose restrictions on trade and commerce is absolute and without any limitations.",
+      "correctAnswer": false,
+      "type": "TF"
+    },
+    {
+      "question": "A state bill imposing restrictions on trade with other states needs the previous sanction of the President.",
+      "correctAnswer": true,
+      "type": "TF"
+    }
+  ]
+}
